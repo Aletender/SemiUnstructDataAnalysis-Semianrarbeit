@@ -1,0 +1,3123 @@
+
+{
+  "news": [
+    {
+      "sophoraId": "nadeschdin-102",
+      "externalId": "bacd3710-a2e4-4eed-b812-3796f5e46de3",
+      "title": "Kriegsgegner Nadeschdin droht Aus der Kandidatur",
+      "date": "2024-02-05T12:58:27.193+01:00",
+      "teaserImage": {
+        "alttext": "Boris Nadeschdin",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/e66db8c5-ede5-468e-bd6d-494b03668687/AAABjXj2ppM/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/e66db8c5-ede5-468e-bd6d-494b03668687/AAABjXj2ppM/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/e66db8c5-ede5-468e-bd6d-494b03668687/AAABjXj2ppM/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/e66db8c5-ede5-468e-bd6d-494b03668687/AAABjXj2ppM/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/e66db8c5-ede5-468e-bd6d-494b03668687/AAABjXj2ppM/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/e66db8c5-ede5-468e-bd6d-494b03668687/AAABjXj2ppM/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/e66db8c5-ede5-468e-bd6d-494b03668687/AAABjXj2ppM/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/e66db8c5-ede5-468e-bd6d-494b03668687/AAABjXj2ppM/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/e66db8c5-ede5-468e-bd6d-494b03668687/AAABjXj2ppM/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/e66db8c5-ede5-468e-bd6d-494b03668687/AAABjXj2ppM/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/e66db8c5-ede5-468e-bd6d-494b03668687/AAABjXj2ppM/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/e66db8c5-ede5-468e-bd6d-494b03668687/AAABjXj2ppM/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Nadeschdin"
+        },
+        {
+          "tag": "Russland"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/nadeschdin-102.json?view=hasChanged&lastKnown=EDCB3CBE250878E31814E2AD35EA19C5",
+      "tracking": [
+        {
+          "sid": "app.ausland.europa.nadeschdin-102",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240205T1258",
+          "otp": "meldung",
+          "cid": "nadeschdin-102",
+          "pti": "Russland_Kriegsgegner_Nadeschdin_droht_Aus_der_Kandidatur",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Präsidentenwahl in Russland",
+      "firstSentence": "Der russische Oppositionspolitiker will gegen Kremlchef Putin antreten.",
+      "details": "https://www.tagesschau.de/api2u/ausland/europa/nadeschdin-102.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/europa/nadeschdin-102.html",
+      "shareURL": "https://www.tagesschau.de/ausland/europa/nadeschdin-102.html",
+      "comments": "https://www.tagesschau.de/api2u/nadeschdin-102.json?view=comment",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "syrien-sdf-102",
+      "externalId": "b47daef3-68f6-4c84-9a81-8a974f077748",
+      "title": "Mehrere Tote bei Drohnenangriff in Syrien",
+      "date": "2024-02-05T12:55:55.467+01:00",
+      "teaserImage": {
+        "copyright": "ARD-aktuell",
+        "alttext": "Karte Syrien Al Omar",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/b68833f0-2d20-4e02-a6b9-82bf7d05af23/AAABjXkevUs/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/b68833f0-2d20-4e02-a6b9-82bf7d05af23/AAABjXkevUs/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/b68833f0-2d20-4e02-a6b9-82bf7d05af23/AAABjXkevUs/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/b68833f0-2d20-4e02-a6b9-82bf7d05af23/AAABjXkevUs/AAABibBx0zc/1x1-640.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/b68833f0-2d20-4e02-a6b9-82bf7d05af23/AAABjXkevUs/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/b68833f0-2d20-4e02-a6b9-82bf7d05af23/AAABjXkevUs/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/b68833f0-2d20-4e02-a6b9-82bf7d05af23/AAABjXkevUs/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/b68833f0-2d20-4e02-a6b9-82bf7d05af23/AAABjXkevUs/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/b68833f0-2d20-4e02-a6b9-82bf7d05af23/AAABjXkevUs/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/b68833f0-2d20-4e02-a6b9-82bf7d05af23/AAABjXkevUs/AAABibBxqrQ/16x9-1280.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Syrien"
+        },
+        {
+          "tag": "Drohnenangriff"
+        },
+        {
+          "tag": "SDF"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/syrien-sdf-102.json?view=hasChanged&lastKnown=92C643036D3C56D7DD13BC18E46C9E89",
+      "tracking": [
+        {
+          "sid": "app.ausland.asien.syrien-sdf-102",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240205T1255",
+          "otp": "meldung",
+          "cid": "syrien-sdf-102",
+          "pti": "US-Militaerbasis_Mehrere_Tote_bei_Drohnenangriff_in_Syrien",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "US-Militärbasis",
+      "firstSentence": "Bei einem Angriff auf eine US-Militärbasis in Syrien sind mindestens sechs kurdische Kämpfer getötet worden.",
+      "details": "https://www.tagesschau.de/api2u/ausland/asien/syrien-sdf-102.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/asien/syrien-sdf-102.html",
+      "shareURL": "https://www.tagesschau.de/ausland/asien/syrien-sdf-102.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "chile-waldbraende-sonntag-100",
+      "externalId": "41551652-99d6-4e76-83a1-fbeb88606c8d",
+      "title": "Chile ruft nach Waldbränden Staatstrauer aus",
+      "date": "2024-02-05T11:22:24.364+01:00",
+      "teaserImage": {
+        "alttext": "Luftaufnahme des botanischen Gartens im chilenischen Viña del Mar nach einem Waldbrand",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/2c35f20d-cb5d-4dc3-88b1-3817b66ef1f7/AAABjXWto_8/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/2c35f20d-cb5d-4dc3-88b1-3817b66ef1f7/AAABjXWto_8/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/2c35f20d-cb5d-4dc3-88b1-3817b66ef1f7/AAABjXWto_8/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/2c35f20d-cb5d-4dc3-88b1-3817b66ef1f7/AAABjXWto_8/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/2c35f20d-cb5d-4dc3-88b1-3817b66ef1f7/AAABjXWto_8/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/2c35f20d-cb5d-4dc3-88b1-3817b66ef1f7/AAABjXWto_8/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/2c35f20d-cb5d-4dc3-88b1-3817b66ef1f7/AAABjXWto_8/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/2c35f20d-cb5d-4dc3-88b1-3817b66ef1f7/AAABjXWto_8/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/2c35f20d-cb5d-4dc3-88b1-3817b66ef1f7/AAABjXWto_8/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/2c35f20d-cb5d-4dc3-88b1-3817b66ef1f7/AAABjXWto_8/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/2c35f20d-cb5d-4dc3-88b1-3817b66ef1f7/AAABjXWto_8/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/2c35f20d-cb5d-4dc3-88b1-3817b66ef1f7/AAABjXWto_8/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Chile"
+        },
+        {
+          "tag": "Waldbrände"
+        },
+        {
+          "tag": "El Niño"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/chile-waldbraende-sonntag-100.json?view=hasChanged&lastKnown=1995E59741364C30E918938753B8730C",
+      "tracking": [
+        {
+          "sid": "app.ausland.amerika.chile-waldbraende-sonntag-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240204T2052",
+          "otp": "meldung",
+          "cid": "chile-waldbraende-sonntag-100",
+          "pti": "Viele_Tote_nach_Waldbraenden_-_Chile_ruft_Staatstrauer_aus",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Viele Tote",
+      "firstSentence": "Die Opferzahlen steigen rapide, die Regierung sieht sich mit einer Ausnahmesituation konfrontiert.",
+      "details": "https://www.tagesschau.de/api2u/ausland/amerika/chile-waldbraende-sonntag-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/amerika/chile-waldbraende-sonntag-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/amerika/chile-waldbraende-sonntag-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "hilfslieferungen-gazastreifen-102",
+      "externalId": "80fa8ac2-7176-4169-a0d1-7f8232d58284",
+      "title": "\"Wir können der Hamas so etwas nicht geben\"",
+      "date": "2024-02-05T10:45:40.814+01:00",
+      "teaserImage": {
+        "alttext": "Menschen stehen vor Fahrzeugen mit Israelflaggen.",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/1af224ea-a89c-4ad6-9682-a7b1fd217ef7/AAABjXjFqnA/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/1af224ea-a89c-4ad6-9682-a7b1fd217ef7/AAABjXjFqnA/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/1af224ea-a89c-4ad6-9682-a7b1fd217ef7/AAABjXjFqnA/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/1af224ea-a89c-4ad6-9682-a7b1fd217ef7/AAABjXjFqnA/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/1af224ea-a89c-4ad6-9682-a7b1fd217ef7/AAABjXjFqnA/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/1af224ea-a89c-4ad6-9682-a7b1fd217ef7/AAABjXjFqnA/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/1af224ea-a89c-4ad6-9682-a7b1fd217ef7/AAABjXjFqnA/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/1af224ea-a89c-4ad6-9682-a7b1fd217ef7/AAABjXjFqnA/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/1af224ea-a89c-4ad6-9682-a7b1fd217ef7/AAABjXjFqnA/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/1af224ea-a89c-4ad6-9682-a7b1fd217ef7/AAABjXjFqnA/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/1af224ea-a89c-4ad6-9682-a7b1fd217ef7/AAABjXjFqnA/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/1af224ea-a89c-4ad6-9682-a7b1fd217ef7/AAABjXjFqnA/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Gazastreifen"
+        },
+        {
+          "tag": "Hilfsgüter"
+        },
+        {
+          "tag": "Nahost"
+        },
+        {
+          "tag": "Israel"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/hilfslieferungen-gazastreifen-102.json?view=hasChanged&lastKnown=31B72814243F42635F142A12C5F7D600",
+      "tracking": [
+        {
+          "sid": "app.ausland.asien.hilfslieferungen-gazastreifen-102",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240205T1045",
+          "otp": "meldung",
+          "cid": "hilfslieferungen-gazastreifen-102",
+          "pti": "Streit_um_die_Lieferung_von_Hilfsguetern_in_den_Gazastreifen",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Streit um Gaza-Hilfslieferungen",
+      "firstSentence": "An der Grenze zum Gazastreifen fordern israelische Demonstranten ein Ende aller Hilfslieferungen.",
+      "details": "https://www.tagesschau.de/api2u/ausland/asien/hilfslieferungen-gazastreifen-102.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/asien/hilfslieferungen-gazastreifen-102.html",
+      "shareURL": "https://www.tagesschau.de/ausland/asien/hilfslieferungen-gazastreifen-102.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "china-australischer-autor-todesstrafe-100",
+      "externalId": "6a7d93e7-72e6-4890-9dfd-d8d87cc9bfe2",
+      "title": "China verurteilt australischen Autor zu Todesstrafe",
+      "date": "2024-02-05T10:13:31.224+01:00",
+      "teaserImage": {
+        "alttext": "Yang Hengjun (undatiertes Archivbild)",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/1fbccde5-74f1-45a4-8c99-7f49a3211279/AAABjXjKCf4/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/1fbccde5-74f1-45a4-8c99-7f49a3211279/AAABjXjKCf4/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/1fbccde5-74f1-45a4-8c99-7f49a3211279/AAABjXjKCf4/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/1fbccde5-74f1-45a4-8c99-7f49a3211279/AAABjXjKCf4/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/1fbccde5-74f1-45a4-8c99-7f49a3211279/AAABjXjKCf4/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/1fbccde5-74f1-45a4-8c99-7f49a3211279/AAABjXjKCf4/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/1fbccde5-74f1-45a4-8c99-7f49a3211279/AAABjXjKCf4/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/1fbccde5-74f1-45a4-8c99-7f49a3211279/AAABjXjKCf4/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/1fbccde5-74f1-45a4-8c99-7f49a3211279/AAABjXjKCf4/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/1fbccde5-74f1-45a4-8c99-7f49a3211279/AAABjXjKCf4/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/1fbccde5-74f1-45a4-8c99-7f49a3211279/AAABjXjKCf4/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/1fbccde5-74f1-45a4-8c99-7f49a3211279/AAABjXjKCf4/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "China"
+        },
+        {
+          "tag": "Australien"
+        },
+        {
+          "tag": "Todesstrafe"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/china-australischer-autor-todesstrafe-100.json?view=hasChanged&lastKnown=CEDB3B697A4E3B31ED5CA448140543ED",
+      "tracking": [
+        {
+          "sid": "app.ausland.asien.china-australischer-autor-todesstrafe-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240205T1013",
+          "otp": "meldung",
+          "cid": "china-australischer-autor-todesstrafe-100",
+          "pti": "Australischer_Autor_in_China_zu_Todesstrafe_auf_Bewaehrung_verurteilt",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Auf Bewährung",
+      "firstSentence": "Der australische Staatsbürger wurde der Spionage für schuldig befunden - die Strafe auf Bewährung ausgesetzt.",
+      "details": "https://www.tagesschau.de/api2u/ausland/asien/china-australischer-autor-todesstrafe-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/asien/china-australischer-autor-todesstrafe-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/asien/china-australischer-autor-todesstrafe-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "el-salvador-wahl-104",
+      "externalId": "099a9e48-0430-43a1-9666-f3d20e6d93f6",
+      "title": "Umstrittener Amtsinhaber erklärt sich zum Sieger ",
+      "date": "2024-02-05T08:25:52.923+01:00",
+      "teaserImage": {
+        "alttext": "El Salvadors Präsident Bukele ",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/93843206-f5d3-4a09-9d0f-a30a305fb1cf/AAABjXgN-ZU/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/93843206-f5d3-4a09-9d0f-a30a305fb1cf/AAABjXgN-ZU/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/93843206-f5d3-4a09-9d0f-a30a305fb1cf/AAABjXgN-ZU/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/93843206-f5d3-4a09-9d0f-a30a305fb1cf/AAABjXgN-ZU/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/93843206-f5d3-4a09-9d0f-a30a305fb1cf/AAABjXgN-ZU/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/93843206-f5d3-4a09-9d0f-a30a305fb1cf/AAABjXgN-ZU/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/93843206-f5d3-4a09-9d0f-a30a305fb1cf/AAABjXgN-ZU/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/93843206-f5d3-4a09-9d0f-a30a305fb1cf/AAABjXgN-ZU/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/93843206-f5d3-4a09-9d0f-a30a305fb1cf/AAABjXgN-ZU/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/93843206-f5d3-4a09-9d0f-a30a305fb1cf/AAABjXgN-ZU/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/93843206-f5d3-4a09-9d0f-a30a305fb1cf/AAABjXgN-ZU/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/93843206-f5d3-4a09-9d0f-a30a305fb1cf/AAABjXgN-ZU/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "El Salvador"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/el-salvador-wahl-104.json?view=hasChanged&lastKnown=C77DA95A34CC4DFF9B5DD8BB0CC5D454",
+      "tracking": [
+        {
+          "sid": "app.ausland.amerika.el-salvador-wahl-104",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240205T0825",
+          "otp": "meldung",
+          "cid": "el-salvador-wahl-104",
+          "pti": "Praesidentenwahl_in_El_Salvador_Bukele_erklaert_sich_zum_Sieger",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Präsidentenwahl in El Salvador",
+      "firstSentence": "Der harte Kurs des 42-jährigen Konservativen gegen die organisierte Kriminalität ist umstritten.",
+      "details": "https://www.tagesschau.de/api2u/ausland/amerika/el-salvador-wahl-104.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/amerika/el-salvador-wahl-104.html",
+      "shareURL": "https://www.tagesschau.de/ausland/amerika/el-salvador-wahl-104.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "nordirland-o-neill-100",
+      "externalId": "a5e6759c-5c58-4cdc-baff-30b493a86e82",
+      "title": "\"Ich möchte eine Regierungschefin für alle sein\"",
+      "date": "2024-02-05T08:03:54.347+01:00",
+      "teaserImage": {
+        "alttext": "Michelle O’Neill",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/4037349c-9be3-43f4-aef0-6fa9c03e85c8/AAABjXgUn7g/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/4037349c-9be3-43f4-aef0-6fa9c03e85c8/AAABjXgUn7g/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/4037349c-9be3-43f4-aef0-6fa9c03e85c8/AAABjXgUn7g/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/4037349c-9be3-43f4-aef0-6fa9c03e85c8/AAABjXgUn7g/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/4037349c-9be3-43f4-aef0-6fa9c03e85c8/AAABjXgUn7g/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/4037349c-9be3-43f4-aef0-6fa9c03e85c8/AAABjXgUn7g/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/4037349c-9be3-43f4-aef0-6fa9c03e85c8/AAABjXgUn7g/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/4037349c-9be3-43f4-aef0-6fa9c03e85c8/AAABjXgUn7g/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/4037349c-9be3-43f4-aef0-6fa9c03e85c8/AAABjXgUn7g/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/4037349c-9be3-43f4-aef0-6fa9c03e85c8/AAABjXgUn7g/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/4037349c-9be3-43f4-aef0-6fa9c03e85c8/AAABjXgUn7g/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/4037349c-9be3-43f4-aef0-6fa9c03e85c8/AAABjXgUn7g/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Nordirland"
+        },
+        {
+          "tag": "Michelle O'Neill"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/nordirland-o-neill-100.json?view=hasChanged&lastKnown=C9838B6E855E8543E5BE86726C284CE3",
+      "tracking": [
+        {
+          "sid": "app.ausland.europa.nordirland-o-neill-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240205T0803",
+          "otp": "meldung",
+          "cid": "nordirland-o-neill-100",
+          "pti": "Nordirlands_neue_Regierungschefin_Michelle_ONeill_-_wer_ist_sie",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "O'Neill an der Spitze Nordirlands",
+      "firstSentence": "Nach zwei Jahren Regierungskrise hatte sich Nordirland am Samstag auf Michelle O’Neill als Premierministerin geeinigt.",
+      "details": "https://www.tagesschau.de/api2u/ausland/europa/nordirland-o-neill-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/europa/nordirland-o-neill-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/europa/nordirland-o-neill-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "grammy-swift-100",
+      "externalId": "7707de16-db33-4491-af57-ac8430ed482c",
+      "title": "Taylor Swift schreibt Grammy-Geschichte",
+      "date": "2024-02-05T07:48:48.942+01:00",
+      "teaserImage": {
+        "alttext": "Taylor Swift mit einem Grammy in der Hand.",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/6ca3ae6c-92e7-46f4-bd4c-d21c22a086f0/AAABjXkwBSU/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/6ca3ae6c-92e7-46f4-bd4c-d21c22a086f0/AAABjXkwBSU/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/6ca3ae6c-92e7-46f4-bd4c-d21c22a086f0/AAABjXkwBSU/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/6ca3ae6c-92e7-46f4-bd4c-d21c22a086f0/AAABjXkwBSU/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/6ca3ae6c-92e7-46f4-bd4c-d21c22a086f0/AAABjXkwBSU/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/6ca3ae6c-92e7-46f4-bd4c-d21c22a086f0/AAABjXkwBSU/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/6ca3ae6c-92e7-46f4-bd4c-d21c22a086f0/AAABjXkwBSU/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/6ca3ae6c-92e7-46f4-bd4c-d21c22a086f0/AAABjXkwBSU/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/6ca3ae6c-92e7-46f4-bd4c-d21c22a086f0/AAABjXkwBSU/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/6ca3ae6c-92e7-46f4-bd4c-d21c22a086f0/AAABjXkwBSU/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/6ca3ae6c-92e7-46f4-bd4c-d21c22a086f0/AAABjXkwBSU/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/6ca3ae6c-92e7-46f4-bd4c-d21c22a086f0/AAABjXkwBSU/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Grammys"
+        },
+        {
+          "tag": "Taylor Swift"
+        },
+        {
+          "tag": "Musikpreis"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/grammy-swift-100.json?view=hasChanged&lastKnown=455D668C8C6C2C4A478D16F7779D640F",
+      "tracking": [
+        {
+          "sid": "app.ausland.grammy-swift-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240205T0748",
+          "otp": "meldung",
+          "cid": "grammy-swift-100",
+          "pti": "Taylor_Swift_holt_Rekord_bei_den_Grammys_2024",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Musikpreise vergeben",
+      "firstSentence": "Pop-Superstar Taylor Swift hat zum vierten Mal den Grammy für das Album des Jahres gewonnen und damit einen Rekord aufgestellt.",
+      "details": "https://www.tagesschau.de/api2u/ausland/grammy-swift-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/grammy-swift-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/grammy-swift-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "usa-angriffe-huthi-102",
+      "externalId": "c749f444-26f5-4dcb-9cf2-7f8635aa0761",
+      "title": "\"Das war nur die erste Runde\"",
+      "date": "2024-02-05T06:06:20.639+01:00",
+      "teaserImage": {
+        "alttext": "Weißes Haus im Sonnenuntergang",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/7262eed0-99bd-4d9d-898e-fd814a7e56e7/AAABjRhaPSA/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/7262eed0-99bd-4d9d-898e-fd814a7e56e7/AAABjRhaPSA/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/7262eed0-99bd-4d9d-898e-fd814a7e56e7/AAABjRhaPSA/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/7262eed0-99bd-4d9d-898e-fd814a7e56e7/AAABjRhaPSA/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/7262eed0-99bd-4d9d-898e-fd814a7e56e7/AAABjRhaPSA/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/7262eed0-99bd-4d9d-898e-fd814a7e56e7/AAABjRhaPSA/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/7262eed0-99bd-4d9d-898e-fd814a7e56e7/AAABjRhaPSA/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/7262eed0-99bd-4d9d-898e-fd814a7e56e7/AAABjRhaPSA/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/7262eed0-99bd-4d9d-898e-fd814a7e56e7/AAABjRhaPSA/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/7262eed0-99bd-4d9d-898e-fd814a7e56e7/AAABjRhaPSA/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/7262eed0-99bd-4d9d-898e-fd814a7e56e7/AAABjRhaPSA/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/7262eed0-99bd-4d9d-898e-fd814a7e56e7/AAABjRhaPSA/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Iran"
+        },
+        {
+          "tag": "Syrien"
+        },
+        {
+          "tag": "USA"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/usa-angriffe-huthi-102.json?view=hasChanged&lastKnown=E84298A135628CC9B73CD2B45A9B3926",
+      "tracking": [
+        {
+          "sid": "app.ausland.usa-angriffe-huthi-102",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240205T0024",
+          "otp": "meldung",
+          "cid": "usa-angriffe-huthi-102",
+          "pti": "US-Angriffe_auf_proiranische_Kraefte_Das_war_nur_die_erste_Runde",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "US-Angriffe auf proiranische Kräfte",
+      "firstSentence": "Die Vergeltungsangriffe der USA auf pro-iranische Kräfte in Syrien, dem Irak und auf die Huthi-Miliz im Jemen schüren die Angst vor einer weiteren Eskalation.",
+      "details": "https://www.tagesschau.de/api2u/ausland/usa-angriffe-huthi-102.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/usa-angriffe-huthi-102.html",
+      "shareURL": "https://www.tagesschau.de/ausland/usa-angriffe-huthi-102.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "pistorius-kosovo-kfor-100",
+      "externalId": "0766dbd3-1a8d-4998-820f-8db256ed039b",
+      "title": "Ministerbesuch im Spannungsgebiet",
+      "date": "2024-02-05T05:46:00.772+01:00",
+      "teaserImage": {
+        "alttext": " Boris Pistorius und Vjosa Osmani reichen sich die Hand.",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/1a703ffc-3eee-4258-b104-afb4aa7cb336/AAABjXj40U4/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/1a703ffc-3eee-4258-b104-afb4aa7cb336/AAABjXj40U4/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/1a703ffc-3eee-4258-b104-afb4aa7cb336/AAABjXj40U4/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/1a703ffc-3eee-4258-b104-afb4aa7cb336/AAABjXj40U4/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/1a703ffc-3eee-4258-b104-afb4aa7cb336/AAABjXj40U4/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/1a703ffc-3eee-4258-b104-afb4aa7cb336/AAABjXj40U4/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/1a703ffc-3eee-4258-b104-afb4aa7cb336/AAABjXj40U4/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/1a703ffc-3eee-4258-b104-afb4aa7cb336/AAABjXj40U4/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/1a703ffc-3eee-4258-b104-afb4aa7cb336/AAABjXj40U4/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/1a703ffc-3eee-4258-b104-afb4aa7cb336/AAABjXj40U4/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/1a703ffc-3eee-4258-b104-afb4aa7cb336/AAABjXj40U4/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/1a703ffc-3eee-4258-b104-afb4aa7cb336/AAABjXj40U4/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Pistorius"
+        },
+        {
+          "tag": "Kosovo"
+        },
+        {
+          "tag": "KFOR"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/pistorius-kosovo-kfor-100.json?view=hasChanged&lastKnown=C6D0547DFA425EAEEF42C9DFE2D2DCBF",
+      "tracking": [
+        {
+          "sid": "app.ausland.europa.pistorius-kosovo-kfor-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240205T0546",
+          "otp": "meldung",
+          "cid": "pistorius-kosovo-kfor-100",
+          "pti": "Verteidigungsminister_Pistorius_besucht_den_Kosovo",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": " Pistorius im Kosovo",
+      "firstSentence": "Verteidigungsminister Pistorius ist auf Truppenbesuch im Kosovo.",
+      "details": "https://www.tagesschau.de/api2u/ausland/europa/pistorius-kosovo-kfor-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/europa/pistorius-kosovo-kfor-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/europa/pistorius-kosovo-kfor-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "us-senat-zu-ukraine-hilfen-100",
+      "externalId": "dc294f76-5e53-49bb-b864-91a3b0e57e06",
+      "title": "US-Senat legt Milliarden-Gesetzesentwurf vor",
+      "date": "2024-02-05T04:57:31.851+01:00",
+      "teaserImage": {
+        "alttext": "Das US-Kapitol in Washington.",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/b5886888-e75b-44d0-9aac-f2f23a764494/AAABjXhKjDg/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/b5886888-e75b-44d0-9aac-f2f23a764494/AAABjXhKjDg/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/b5886888-e75b-44d0-9aac-f2f23a764494/AAABjXhKjDg/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/b5886888-e75b-44d0-9aac-f2f23a764494/AAABjXhKjDg/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/b5886888-e75b-44d0-9aac-f2f23a764494/AAABjXhKjDg/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/b5886888-e75b-44d0-9aac-f2f23a764494/AAABjXhKjDg/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/b5886888-e75b-44d0-9aac-f2f23a764494/AAABjXhKjDg/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/b5886888-e75b-44d0-9aac-f2f23a764494/AAABjXhKjDg/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/b5886888-e75b-44d0-9aac-f2f23a764494/AAABjXhKjDg/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/b5886888-e75b-44d0-9aac-f2f23a764494/AAABjXhKjDg/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/b5886888-e75b-44d0-9aac-f2f23a764494/AAABjXhKjDg/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/b5886888-e75b-44d0-9aac-f2f23a764494/AAABjXhKjDg/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Demokraten"
+        },
+        {
+          "tag": "Republikaner"
+        },
+        {
+          "tag": "Ukraine"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/us-senat-zu-ukraine-hilfen-100.json?view=hasChanged&lastKnown=5E6F0F40A2372903046BF3173DC50BCC",
+      "tracking": [
+        {
+          "sid": "app.ausland.us-senat-zu-ukraine-hilfen-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240205T0243",
+          "otp": "meldung",
+          "cid": "us-senat-zu-ukraine-hilfen-100",
+          "pti": "US-Senat_legt_Entwurf_fuer_Ukraine-Hilfe_und_Grenzsicherung_vor",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Ukraine-Hilfe und Grenzsicherung",
+      "firstSentence": "Republikaner im Repräsentantenhaus kündigten Widerstand an.",
+      "details": "https://www.tagesschau.de/api2u/ausland/us-senat-zu-ukraine-hilfen-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/us-senat-zu-ukraine-hilfen-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/us-senat-zu-ukraine-hilfen-100.html",
+      "comments": "https://www.tagesschau.de/api2u/us-senat-zu-ukraine-hilfen-100.json?view=comment",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "paris-suv-abstimmung-100",
+      "externalId": "317e9170-0263-469f-bdca-b3bf313cde90",
+      "title": "Paris stimmt für höhere Parkgebühren für SUV",
+      "date": "2024-02-05T00:43:06.192+01:00",
+      "teaserImage": {
+        "alttext": "Ein SUV parkt in Paris",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/dede7c88-f6d8-4113-b54a-36c5abae93ec/AAABjXZELCk/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/dede7c88-f6d8-4113-b54a-36c5abae93ec/AAABjXZELCk/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/dede7c88-f6d8-4113-b54a-36c5abae93ec/AAABjXZELCk/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/dede7c88-f6d8-4113-b54a-36c5abae93ec/AAABjXZELCk/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/dede7c88-f6d8-4113-b54a-36c5abae93ec/AAABjXZELCk/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/dede7c88-f6d8-4113-b54a-36c5abae93ec/AAABjXZELCk/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/dede7c88-f6d8-4113-b54a-36c5abae93ec/AAABjXZELCk/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/dede7c88-f6d8-4113-b54a-36c5abae93ec/AAABjXZELCk/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/dede7c88-f6d8-4113-b54a-36c5abae93ec/AAABjXZELCk/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/dede7c88-f6d8-4113-b54a-36c5abae93ec/AAABjXZELCk/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/dede7c88-f6d8-4113-b54a-36c5abae93ec/AAABjXZELCk/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/dede7c88-f6d8-4113-b54a-36c5abae93ec/AAABjXZELCk/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Paris"
+        },
+        {
+          "tag": "SUVs"
+        },
+        {
+          "tag": "Parkgebühren"
+        },
+        {
+          "tag": "Straßenverkehr"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/paris-suv-abstimmung-100.json?view=hasChanged&lastKnown=06191092B555A331B3AB341C09A2C6CB",
+      "tracking": [
+        {
+          "sid": "app.ausland.europa.paris-suv-abstimmung-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240205T0043",
+          "otp": "meldung",
+          "cid": "paris-suv-abstimmung-100",
+          "pti": "Buergerbefragung_Paris_stimmt_fuer_hoehere_Parkgebuehren_fuer_SUV",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Bürgerbefragung",
+      "firstSentence": "Auch die Pariser Verwaltung zielt darauf - am Voting beteiligten sich allerdings nur sechs Prozent.",
+      "details": "https://www.tagesschau.de/api2u/ausland/europa/paris-suv-abstimmung-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/europa/paris-suv-abstimmung-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/europa/paris-suv-abstimmung-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "senegal-wahlverschiebung-proteste-100",
+      "externalId": "77492343-9a09-41c1-a5cb-3403a3f8fb4a",
+      "title": "Ausschreitungen nach Wahlverschiebung im Senegal",
+      "date": "2024-02-04T21:58:03.543+01:00",
+      "teaserImage": {
+        "alttext": "Protest in Dakar",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/8bac094b-9e12-4a4a-bf8c-cc5c0038e425/AAABjXXp82w/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/8bac094b-9e12-4a4a-bf8c-cc5c0038e425/AAABjXXp82w/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/8bac094b-9e12-4a4a-bf8c-cc5c0038e425/AAABjXXp82w/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/8bac094b-9e12-4a4a-bf8c-cc5c0038e425/AAABjXXp82w/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/8bac094b-9e12-4a4a-bf8c-cc5c0038e425/AAABjXXp82w/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/8bac094b-9e12-4a4a-bf8c-cc5c0038e425/AAABjXXp82w/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/8bac094b-9e12-4a4a-bf8c-cc5c0038e425/AAABjXXp82w/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/8bac094b-9e12-4a4a-bf8c-cc5c0038e425/AAABjXXp82w/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/8bac094b-9e12-4a4a-bf8c-cc5c0038e425/AAABjXXp82w/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/8bac094b-9e12-4a4a-bf8c-cc5c0038e425/AAABjXXp82w/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/8bac094b-9e12-4a4a-bf8c-cc5c0038e425/AAABjXXp82w/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/8bac094b-9e12-4a4a-bf8c-cc5c0038e425/AAABjXXp82w/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Senegal"
+        },
+        {
+          "tag": "Wahlen"
+        },
+        {
+          "tag": "Proteste"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/senegal-wahlverschiebung-proteste-100.json?view=hasChanged&lastKnown=BDEF3F5F39F0C2D22E131223536EA7F4",
+      "tracking": [
+        {
+          "sid": "app.ausland.afrika.senegal-wahlverschiebung-proteste-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240204T2158",
+          "otp": "meldung",
+          "cid": "senegal-wahlverschiebung-proteste-100",
+          "pti": "Dakar_Ausschreitungen_nach_Wahlverschiebung_im_Senegal",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Dakar",
+      "firstSentence": "Anlass bildete die Verschiebung eines Wahltermins - was als Machtmissbrauch gewertet wird.",
+      "details": "https://www.tagesschau.de/api2u/ausland/afrika/senegal-wahlverschiebung-proteste-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/afrika/senegal-wahlverschiebung-proteste-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/afrika/senegal-wahlverschiebung-proteste-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "el-salvador-bukele-102",
+      "externalId": "ffe7a34f-ddf4-41d5-bf01-a49f92046010",
+      "title": "Wahl auf dem Weg in die Diktatur",
+      "date": "2024-02-04T15:16:41.480+01:00",
+      "teaserImage": {
+        "alttext": "Nayib Bukele mit Kandidatinnen des Miss Universe-Wettbewerbs.",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/460d3adf-fd05-4f27-8868-461b7463e67b/AAABjXR6eeI/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/460d3adf-fd05-4f27-8868-461b7463e67b/AAABjXR6eeI/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/460d3adf-fd05-4f27-8868-461b7463e67b/AAABjXR6eeI/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/460d3adf-fd05-4f27-8868-461b7463e67b/AAABjXR6eeI/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/460d3adf-fd05-4f27-8868-461b7463e67b/AAABjXR6eeI/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/460d3adf-fd05-4f27-8868-461b7463e67b/AAABjXR6eeI/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/460d3adf-fd05-4f27-8868-461b7463e67b/AAABjXR6eeI/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/460d3adf-fd05-4f27-8868-461b7463e67b/AAABjXR6eeI/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/460d3adf-fd05-4f27-8868-461b7463e67b/AAABjXR6eeI/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/460d3adf-fd05-4f27-8868-461b7463e67b/AAABjXR6eeI/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/460d3adf-fd05-4f27-8868-461b7463e67b/AAABjXR6eeI/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/460d3adf-fd05-4f27-8868-461b7463e67b/AAABjXR6eeI/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Amerika"
+        },
+        {
+          "tag": "El Salvador"
+        },
+        {
+          "tag": "Bukele"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/el-salvador-bukele-102.json?view=hasChanged&lastKnown=92C691D73B255D93CEE5194921D31D2D",
+      "tracking": [
+        {
+          "sid": "app.ausland.amerika.el-salvador-bukele-102",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240204T1516",
+          "otp": "meldung",
+          "cid": "el-salvador-bukele-102",
+          "pti": "El_Salvador_Wahl_auf_dem_Weg_in_die_Diktatur",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "El Salvador",
+      "firstSentence": "El Salvadors Präsident Bukele stellt sich heute erneut zur Wahl, obwohl die Verfassung das verbietet.",
+      "details": "https://www.tagesschau.de/api2u/ausland/amerika/el-salvador-bukele-102.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/amerika/el-salvador-bukele-102.html",
+      "shareURL": "https://www.tagesschau.de/ausland/amerika/el-salvador-bukele-102.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "ukraine-angriff-lyssytschansk-100",
+      "externalId": "5a9a93b0-2ee0-437f-b3f1-46510b94c183",
+      "title": "Russland meldet 28 Tote bei Angriff auf Lyssytschansk",
+      "date": "2024-02-04T13:05:59.990+01:00",
+      "teaserImage": {
+        "alttext": "Ein vom Pressedienst des russischen Katastrophenschutzministeriums via AP veröffentlichten Foto zeigt nach russischen Angaben die Schäden an der Bäckerei in Lyssytschansk",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/57950455-2794-4962-b77f-ca4c368b2831/AAABjXQC1yc/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/57950455-2794-4962-b77f-ca4c368b2831/AAABjXQC1yc/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/57950455-2794-4962-b77f-ca4c368b2831/AAABjXQC1yc/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/57950455-2794-4962-b77f-ca4c368b2831/AAABjXQC1yc/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/57950455-2794-4962-b77f-ca4c368b2831/AAABjXQC1yc/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/57950455-2794-4962-b77f-ca4c368b2831/AAABjXQC1yc/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/57950455-2794-4962-b77f-ca4c368b2831/AAABjXQC1yc/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/57950455-2794-4962-b77f-ca4c368b2831/AAABjXQC1yc/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/57950455-2794-4962-b77f-ca4c368b2831/AAABjXQC1yc/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/57950455-2794-4962-b77f-ca4c368b2831/AAABjXQC1yc/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/57950455-2794-4962-b77f-ca4c368b2831/AAABjXQC1yc/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/57950455-2794-4962-b77f-ca4c368b2831/AAABjXQC1yc/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Ukraine"
+        },
+        {
+          "tag": "Krieg"
+        },
+        {
+          "tag": "Lyssytschansk"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/ukraine-angriff-lyssytschansk-100.json?view=hasChanged&lastKnown=792C87171904A1A3E2EB7959E8FBC92C",
+      "tracking": [
+        {
+          "sid": "app.ausland.europa.ukraine-angriff-lyssytschansk-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240204T1305",
+          "otp": "meldung",
+          "cid": "ukraine-angriff-lyssytschansk-100",
+          "pti": "Russland_meldet_28_Tote_bei_ukrainischem_Angriff_auf_besetzte_Stadt",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Besetzte Stadt in der Ukraine",
+      "firstSentence": "Es sei eine Bäckerei getroffen worden. Russland macht die Ukraine verantwortlich.",
+      "details": "https://www.tagesschau.de/api2u/ausland/europa/ukraine-angriff-lyssytschansk-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-lyssytschansk-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/europa/ukraine-angriff-lyssytschansk-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "israel-hamas-geiseln-106",
+      "externalId": "5e23981c-5805-4063-a2a7-ec7f1f9181f3",
+      "title": "Geisel-Krise setzt Netanyahu unter Druck",
+      "date": "2024-02-04T12:52:58.393+01:00",
+      "teaserImage": {
+        "alttext": "Ein Demonstrant hält bei einer Demo in Tel Aviv eine israelische Flagge, auf der das Gesicht des israelischen Premierministers Benjamin Netanyahu abgebildet ist.",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/8ba7e697-4dd0-492c-8c4e-29d4bc505b42/AAABjXP54K4/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/8ba7e697-4dd0-492c-8c4e-29d4bc505b42/AAABjXP54K4/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/8ba7e697-4dd0-492c-8c4e-29d4bc505b42/AAABjXP54K4/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/8ba7e697-4dd0-492c-8c4e-29d4bc505b42/AAABjXP54K4/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/8ba7e697-4dd0-492c-8c4e-29d4bc505b42/AAABjXP54K4/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/8ba7e697-4dd0-492c-8c4e-29d4bc505b42/AAABjXP54K4/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/8ba7e697-4dd0-492c-8c4e-29d4bc505b42/AAABjXP54K4/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/8ba7e697-4dd0-492c-8c4e-29d4bc505b42/AAABjXP54K4/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/8ba7e697-4dd0-492c-8c4e-29d4bc505b42/AAABjXP54K4/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/8ba7e697-4dd0-492c-8c4e-29d4bc505b42/AAABjXP54K4/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/8ba7e697-4dd0-492c-8c4e-29d4bc505b42/AAABjXP54K4/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/8ba7e697-4dd0-492c-8c4e-29d4bc505b42/AAABjXP54K4/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Israel"
+        },
+        {
+          "tag": "Hamas"
+        },
+        {
+          "tag": "Geisel"
+        },
+        {
+          "tag": "Nahost"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/israel-hamas-geiseln-106.json?view=hasChanged&lastKnown=EFEB62412619247FA428C786808B47AF",
+      "tracking": [
+        {
+          "sid": "app.ausland.asien.israel-hamas-geiseln-106",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240204T1252",
+          "otp": "meldung",
+          "cid": "israel-hamas-geiseln-106",
+          "pti": "Geisel-Krise_setzt_Israels_Premier_Netanyahu_unter_Druck",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Proteste in Israel",
+      "firstSentence": "In Israel haben erneut Tausende Menschen für die Freilassung der Geiseln im Gazastreifen demonstriert.",
+      "details": "https://www.tagesschau.de/api2u/ausland/asien/israel-hamas-geiseln-106.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/asien/israel-hamas-geiseln-106.html",
+      "shareURL": "https://www.tagesschau.de/ausland/asien/israel-hamas-geiseln-106.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "jemen-geschichte-100",
+      "externalId": "264f4652-4cda-42b4-8256-635b99004af5",
+      "title": "Wie die Huthi mächtig wurden",
+      "date": "2024-02-04T11:48:37.105+01:00",
+      "teaserImage": {
+        "alttext": "Huthi-Soldaten in Sanaa (Jemen)",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/e250419a-05a3-4860-84d5-0cade8e2125b/AAABjXO7_rY/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/e250419a-05a3-4860-84d5-0cade8e2125b/AAABjXO7_rY/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/e250419a-05a3-4860-84d5-0cade8e2125b/AAABjXO7_rY/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/e250419a-05a3-4860-84d5-0cade8e2125b/AAABjXO7_rY/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/e250419a-05a3-4860-84d5-0cade8e2125b/AAABjXO7_rY/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/e250419a-05a3-4860-84d5-0cade8e2125b/AAABjXO7_rY/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/e250419a-05a3-4860-84d5-0cade8e2125b/AAABjXO7_rY/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/e250419a-05a3-4860-84d5-0cade8e2125b/AAABjXO7_rY/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/e250419a-05a3-4860-84d5-0cade8e2125b/AAABjXO7_rY/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/e250419a-05a3-4860-84d5-0cade8e2125b/AAABjXO7_rY/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/e250419a-05a3-4860-84d5-0cade8e2125b/AAABjXO7_rY/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/e250419a-05a3-4860-84d5-0cade8e2125b/AAABjXO7_rY/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Jemen"
+        },
+        {
+          "tag": "Huthi"
+        },
+        {
+          "tag": "Iran"
+        },
+        {
+          "tag": "Saudi-Arabien"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/jemen-geschichte-100.json?view=hasChanged&lastKnown=C4F1E061E057D9FA0A017B09C57B4598",
+      "tracking": [
+        {
+          "sid": "app.ausland.jemen-geschichte-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240204T1148",
+          "otp": "meldung",
+          "cid": "jemen-geschichte-100",
+          "pti": "Jemen_Wie_die_Huthi_maechtig_wurden",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Jemen",
+      "firstSentence": "Die Huthi-Armee aus dem Jemen steht heute im Zentrum des Nahost-Konflikts. Wie konnte es so weit kommen?",
+      "details": "https://www.tagesschau.de/api2u/ausland/jemen-geschichte-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/jemen-geschichte-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/jemen-geschichte-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "usa-attacken-auf-huthi-100",
+      "externalId": "a7d5e813-29a3-45cc-b47e-9a0153fc9b2d",
+      "title": "USA attackieren erneut Huthi im Jemen",
+      "date": "2024-02-04T11:12:25.479+01:00",
+      "teaserImage": {
+        "alttext": "Ein Kampfflugzeig der britischen Royal Air Force vom Typ Typhoon attackiert Huthi-Milizen im Jemen.",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/0caaddc7-c57e-440c-8cf9-69fb89504d12/AAABjXE6vVI/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/0caaddc7-c57e-440c-8cf9-69fb89504d12/AAABjXE6vVI/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/0caaddc7-c57e-440c-8cf9-69fb89504d12/AAABjXE6vVI/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/0caaddc7-c57e-440c-8cf9-69fb89504d12/AAABjXE6vVI/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/0caaddc7-c57e-440c-8cf9-69fb89504d12/AAABjXE6vVI/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/0caaddc7-c57e-440c-8cf9-69fb89504d12/AAABjXE6vVI/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/0caaddc7-c57e-440c-8cf9-69fb89504d12/AAABjXE6vVI/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/0caaddc7-c57e-440c-8cf9-69fb89504d12/AAABjXE6vVI/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/0caaddc7-c57e-440c-8cf9-69fb89504d12/AAABjXE6vVI/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/0caaddc7-c57e-440c-8cf9-69fb89504d12/AAABjXE6vVI/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/0caaddc7-c57e-440c-8cf9-69fb89504d12/AAABjXE6vVI/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/0caaddc7-c57e-440c-8cf9-69fb89504d12/AAABjXE6vVI/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Jemen"
+        },
+        {
+          "tag": "USA"
+        },
+        {
+          "tag": "Huthi"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/usa-attacken-auf-huthi-100.json?view=hasChanged&lastKnown=E9F127AAC6E04A7C2404FEF65ECE61C8",
+      "tracking": [
+        {
+          "sid": "app.ausland.usa-attacken-auf-huthi-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240204T0008",
+          "otp": "meldung",
+          "cid": "usa-attacken-auf-huthi-100",
+          "pti": "USA_attackieren_erneut_Huthi-Miliz_im_Jemen",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Angriff auf proiranische Miliz",
+      "firstSentence": "Zusammen mit mehreren anderen Nationen seien 36 Ziele der Huthi-Miliz attackiert worden.",
+      "details": "https://www.tagesschau.de/api2u/ausland/usa-attacken-auf-huthi-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/usa-attacken-auf-huthi-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/usa-attacken-auf-huthi-100.html",
+      "comments": "https://www.tagesschau.de/api2u/usa-attacken-auf-huthi-100.json?view=comment",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "biden-vorwahl-south-carolina-praesidentschaftswahl-100",
+      "externalId": "41d4ff41-939f-4512-b331-dab6e2c50452",
+      "title": "Klarer Sieg für Biden - aber Zweifel bleiben",
+      "date": "2024-02-04T11:07:15.408+01:00",
+      "teaserImage": {
+        "alttext": "US-Präsident Biden in Wahlkampfzentrale der Demokraten",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/e891277b-f373-486d-a1f4-751d404a5330/AAABjXOHEBY/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/e891277b-f373-486d-a1f4-751d404a5330/AAABjXOHEBY/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/e891277b-f373-486d-a1f4-751d404a5330/AAABjXOHEBY/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/e891277b-f373-486d-a1f4-751d404a5330/AAABjXOHEBY/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/e891277b-f373-486d-a1f4-751d404a5330/AAABjXOHEBY/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/e891277b-f373-486d-a1f4-751d404a5330/AAABjXOHEBY/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/e891277b-f373-486d-a1f4-751d404a5330/AAABjXOHEBY/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/e891277b-f373-486d-a1f4-751d404a5330/AAABjXOHEBY/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/e891277b-f373-486d-a1f4-751d404a5330/AAABjXOHEBY/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/e891277b-f373-486d-a1f4-751d404a5330/AAABjXOHEBY/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/e891277b-f373-486d-a1f4-751d404a5330/AAABjXOHEBY/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/e891277b-f373-486d-a1f4-751d404a5330/AAABjXOHEBY/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "USA"
+        },
+        {
+          "tag": "Präsidentschaftswahl"
+        },
+        {
+          "tag": "Biden Vorwahlen"
+        },
+        {
+          "tag": "US-Vorwahlen"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/biden-vorwahl-south-carolina-praesidentschaftswahl-100.json?view=hasChanged&lastKnown=709A5209DFC3B5A36699E6461FF7934D",
+      "tracking": [
+        {
+          "sid": "app.ausland.amerika.biden-vorwahl-south-carolina-praesidentschaftswahl-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240204T1107",
+          "otp": "meldung",
+          "cid": "biden-vorwahl-south-carolina-praesidentschaftswahl-100",
+          "pti": "Rueckendeckung_fuer_Biden_bei_Vorwahl_der_US-Demokraten",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Vorwahl in South Carolina",
+      "firstSentence": "In South Carolina hat US-Präsident Biden klar die Vorwahl der Demokraten gewonnen.",
+      "details": "https://www.tagesschau.de/api2u/ausland/amerika/biden-vorwahl-south-carolina-praesidentschaftswahl-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/amerika/biden-vorwahl-south-carolina-praesidentschaftswahl-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/amerika/biden-vorwahl-south-carolina-praesidentschaftswahl-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "namibia-praesident-tot-100",
+      "externalId": "47ab325c-7192-479f-8f35-6339f1c6f92d",
+      "title": "Namibias Präsident Geingob gestorben",
+      "date": "2024-02-04T10:07:25.922+01:00",
+      "teaserImage": {
+        "alttext": "Hage Geingob",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/d0aa067f-5eeb-408c-b472-e2f5d6dc4ba5/AAABjXNfWu8/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/d0aa067f-5eeb-408c-b472-e2f5d6dc4ba5/AAABjXNfWu8/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/d0aa067f-5eeb-408c-b472-e2f5d6dc4ba5/AAABjXNfWu8/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/d0aa067f-5eeb-408c-b472-e2f5d6dc4ba5/AAABjXNfWu8/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/d0aa067f-5eeb-408c-b472-e2f5d6dc4ba5/AAABjXNfWu8/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/d0aa067f-5eeb-408c-b472-e2f5d6dc4ba5/AAABjXNfWu8/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/d0aa067f-5eeb-408c-b472-e2f5d6dc4ba5/AAABjXNfWu8/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/d0aa067f-5eeb-408c-b472-e2f5d6dc4ba5/AAABjXNfWu8/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/d0aa067f-5eeb-408c-b472-e2f5d6dc4ba5/AAABjXNfWu8/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/d0aa067f-5eeb-408c-b472-e2f5d6dc4ba5/AAABjXNfWu8/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/d0aa067f-5eeb-408c-b472-e2f5d6dc4ba5/AAABjXNfWu8/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/d0aa067f-5eeb-408c-b472-e2f5d6dc4ba5/AAABjXNfWu8/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Namibia"
+        },
+        {
+          "tag": "Präsident"
+        },
+        {
+          "tag": "Tod"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/namibia-praesident-tot-100.json?view=hasChanged&lastKnown=74918014B47DA358924ABF09127B493B",
+      "tracking": [
+        {
+          "sid": "app.ausland.afrika.namibia-praesident-tot-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240204T1007",
+          "otp": "meldung",
+          "cid": "namibia-praesident-tot-100",
+          "pti": "Namibias_Praesident_Geingob_im_Alter_von_82_Jahren_gestorben",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Im Alter von 82 Jahren",
+      "firstSentence": "Geingob blieb bis zuletzt in seinem Amt - trotz einer kürzlich bekannt gewordenen Krebserkrankung.",
+      "details": "https://www.tagesschau.de/api2u/ausland/afrika/namibia-praesident-tot-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/afrika/namibia-praesident-tot-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/afrika/namibia-praesident-tot-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "waldbraende-chile-108",
+      "externalId": "d192c5ed-3973-45c2-8982-78f958e5e350",
+      "title": "Mindestens 51 Tote bei Waldbränden in Chile",
+      "date": "2024-02-04T08:34:43.729+01:00",
+      "teaserImage": {
+        "alttext": "In Chile wüten heftige Waldbrände. ",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/1c06dabb-6fb4-4245-b408-4b5823ed6310/AAABjXHC-Q0/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/1c06dabb-6fb4-4245-b408-4b5823ed6310/AAABjXHC-Q0/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/1c06dabb-6fb4-4245-b408-4b5823ed6310/AAABjXHC-Q0/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/1c06dabb-6fb4-4245-b408-4b5823ed6310/AAABjXHC-Q0/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/1c06dabb-6fb4-4245-b408-4b5823ed6310/AAABjXHC-Q0/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/1c06dabb-6fb4-4245-b408-4b5823ed6310/AAABjXHC-Q0/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/1c06dabb-6fb4-4245-b408-4b5823ed6310/AAABjXHC-Q0/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/1c06dabb-6fb4-4245-b408-4b5823ed6310/AAABjXHC-Q0/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/1c06dabb-6fb4-4245-b408-4b5823ed6310/AAABjXHC-Q0/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/1c06dabb-6fb4-4245-b408-4b5823ed6310/AAABjXHC-Q0/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/1c06dabb-6fb4-4245-b408-4b5823ed6310/AAABjXHC-Q0/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/1c06dabb-6fb4-4245-b408-4b5823ed6310/AAABjXHC-Q0/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Chile"
+        },
+        {
+          "tag": "Waldbrände"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/waldbraende-chile-108.json?view=hasChanged&lastKnown=E5AC1DEBF5830D54D5C2C4E129FD4D40",
+      "tracking": [
+        {
+          "sid": "app.ausland.amerika.waldbraende-chile-108",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240204T0238",
+          "otp": "meldung",
+          "cid": "waldbraende-chile-108",
+          "pti": "Mindestens_51_Tote_bei_Waldbraenden_in_Chile",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Hitzewelle in Südamerika",
+      "firstSentence": "In Chile sind mindestens 51 Menschen bei den aktuellen schweren Waldbränden ums Leben gekommen.",
+      "details": "https://www.tagesschau.de/api2u/ausland/amerika/waldbraende-chile-108.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/amerika/waldbraende-chile-108.html",
+      "shareURL": "https://www.tagesschau.de/ausland/amerika/waldbraende-chile-108.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "biden-vorwahl-100",
+      "externalId": "8453a9e9-e6c0-458c-a2a6-0ef0b38cf4f5",
+      "title": "Biden gewinnt klar in South Carolina",
+      "date": "2024-02-04T05:26:54.053+01:00",
+      "teaserImage": {
+        "alttext": "Joe Biden",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Biden Vorwahlen"
+        },
+        {
+          "tag": "US-Präsidentschaftswahl"
+        },
+        {
+          "tag": "Demokraten"
+        },
+        {
+          "tag": "US-Vorwahlen"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/biden-vorwahl-100.json?view=hasChanged&lastKnown=ACE0C8262B4317917C880874CA565216",
+      "tracking": [
+        {
+          "sid": "app.ausland.biden-vorwahl-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240204T0526",
+          "otp": "meldung",
+          "cid": "biden-vorwahl-100",
+          "pti": "Vorwahl_der_US-Demokraten_Biden_gewinnt_klar_in_South_Carolina",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Vorwahlen der US-Demokraten",
+      "firstSentence": "Biden kam im US-Bundesstaat South Carolina nach Auszählung der Hälfte der Stimmen auf mehr als 95 Prozent.",
+      "details": "https://www.tagesschau.de/api2u/ausland/biden-vorwahl-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/biden-vorwahl-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/biden-vorwahl-100.html",
+      "comments": "https://www.tagesschau.de/api2u/biden-vorwahl-100.json?view=comment",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "tuerkei-erdbeben-jahrestag-100",
+      "externalId": "e2749264-a42e-4ebd-94f7-b730ccbaec6e",
+      "title": "\"Der Riss geht durch die ganze Mauer\"",
+      "date": "2024-02-04T03:51:56.450+01:00",
+      "teaserImage": {
+        "copyright": "weltspiegel",
+        "alttext": "Mustafa zeigt Riss in Häuserwand.",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/faffabff-ce99-4995-ac2b-c605121929bf/AAABjWpqths/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/faffabff-ce99-4995-ac2b-c605121929bf/AAABjWpqths/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/faffabff-ce99-4995-ac2b-c605121929bf/AAABjWpqths/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/faffabff-ce99-4995-ac2b-c605121929bf/AAABjWpqths/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/faffabff-ce99-4995-ac2b-c605121929bf/AAABjWpqths/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/faffabff-ce99-4995-ac2b-c605121929bf/AAABjWpqths/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/faffabff-ce99-4995-ac2b-c605121929bf/AAABjWpqths/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/faffabff-ce99-4995-ac2b-c605121929bf/AAABjWpqths/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/faffabff-ce99-4995-ac2b-c605121929bf/AAABjWpqths/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/faffabff-ce99-4995-ac2b-c605121929bf/AAABjWpqths/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/faffabff-ce99-4995-ac2b-c605121929bf/AAABjWpqths/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/faffabff-ce99-4995-ac2b-c605121929bf/AAABjWpqths/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Türkei"
+        },
+        {
+          "tag": "Erdbeben"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/tuerkei-erdbeben-jahrestag-100.json?view=hasChanged&lastKnown=2D93960134E785DDA4909303C43DBDAA",
+      "tracking": [
+        {
+          "sid": "app.ausland.asien.tuerkei-erdbeben-jahrestag-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240204T0351",
+          "otp": "meldung",
+          "cid": "tuerkei-erdbeben-jahrestag-100",
+          "pti": "Ein_Jahr_nach_Erdbeben_Der_Riss_geht_durch_die_ganze_Mauer",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Ein Jahr nach Erdbeben",
+      "firstSentence": "Seit dem Erdbeben in der Südtürkei leben fast 500.000 Menschen in Notunterkünften.",
+      "details": "https://www.tagesschau.de/api2u/ausland/asien/tuerkei-erdbeben-jahrestag-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/asien/tuerkei-erdbeben-jahrestag-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/asien/tuerkei-erdbeben-jahrestag-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "us-angriffe-reaktionen-102",
+      "externalId": "4ea1b4e1-1fcc-4d9d-ac81-f5605f001866",
+      "title": "Russland ruft den UN-Sicherheitsrat an",
+      "date": "2024-02-03T21:15:12.844+01:00",
+      "teaserImage": {
+        "alttext": "Abstimmung im UN-Sicherheitsrat (Archivbild).",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/69fdc922-3b7c-4823-95f2-0687d5982137/AAABjPZbR_Y/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/69fdc922-3b7c-4823-95f2-0687d5982137/AAABjPZbR_Y/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/69fdc922-3b7c-4823-95f2-0687d5982137/AAABjPZbR_Y/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/69fdc922-3b7c-4823-95f2-0687d5982137/AAABjPZbR_Y/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/69fdc922-3b7c-4823-95f2-0687d5982137/AAABjPZbR_Y/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/69fdc922-3b7c-4823-95f2-0687d5982137/AAABjPZbR_Y/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/69fdc922-3b7c-4823-95f2-0687d5982137/AAABjPZbR_Y/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/69fdc922-3b7c-4823-95f2-0687d5982137/AAABjPZbR_Y/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/69fdc922-3b7c-4823-95f2-0687d5982137/AAABjPZbR_Y/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/69fdc922-3b7c-4823-95f2-0687d5982137/AAABjPZbR_Y/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/69fdc922-3b7c-4823-95f2-0687d5982137/AAABjPZbR_Y/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/69fdc922-3b7c-4823-95f2-0687d5982137/AAABjPZbR_Y/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "USA"
+        },
+        {
+          "tag": "Syrien"
+        },
+        {
+          "tag": "Irak"
+        },
+        {
+          "tag": "Nahost"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/us-angriffe-reaktionen-102.json?view=hasChanged&lastKnown=94D4237F07448219B04ABECE87AC34FD",
+      "tracking": [
+        {
+          "sid": "app.ausland.asien.us-angriffe-reaktionen-102",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240203T2115",
+          "otp": "meldung",
+          "cid": "us-angriffe-reaktionen-102",
+          "pti": "Russland_ruft_nach_US-Angriffen_in_Nahost_den_Sicherheitsrat_an",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Nach US-Angriffen in Nahost",
+      "firstSentence": "Laut Medienberichten soll das höchste UN-Gremium am Montag zu dem Thema tagen. ",
+      "details": "https://www.tagesschau.de/api2u/ausland/asien/us-angriffe-reaktionen-102.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/asien/us-angriffe-reaktionen-102.html",
+      "shareURL": "https://www.tagesschau.de/ausland/asien/us-angriffe-reaktionen-102.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "uk-reform-partei-grossbritannien-100",
+      "externalId": "28ab10ea-b9ce-4fac-95d6-26ac418d2bc5",
+      "title": "Reform UK - eine Gefahr für die Konservativen?",
+      "date": "2024-02-03T19:44:11.307+01:00",
+      "teaserImage": {
+        "alttext": "Richard Tice, Vorsitzender der Reform UK Partei",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/60f6b392-c136-4027-ad92-ea99fabf618d/AAABjXBJCEw/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/60f6b392-c136-4027-ad92-ea99fabf618d/AAABjXBJCEw/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/60f6b392-c136-4027-ad92-ea99fabf618d/AAABjXBJCEw/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/60f6b392-c136-4027-ad92-ea99fabf618d/AAABjXBJCEw/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/60f6b392-c136-4027-ad92-ea99fabf618d/AAABjXBJCEw/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/60f6b392-c136-4027-ad92-ea99fabf618d/AAABjXBJCEw/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/60f6b392-c136-4027-ad92-ea99fabf618d/AAABjXBJCEw/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/60f6b392-c136-4027-ad92-ea99fabf618d/AAABjXBJCEw/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/60f6b392-c136-4027-ad92-ea99fabf618d/AAABjXBJCEw/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/60f6b392-c136-4027-ad92-ea99fabf618d/AAABjXBJCEw/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/60f6b392-c136-4027-ad92-ea99fabf618d/AAABjXBJCEw/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/60f6b392-c136-4027-ad92-ea99fabf618d/AAABjXBJCEw/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Großbritannien"
+        },
+        {
+          "tag": "Reform"
+        },
+        {
+          "tag": "Partei"
+        },
+        {
+          "tag": "UK"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/uk-reform-partei-grossbritannien-100.json?view=hasChanged&lastKnown=F0FD76D906F1A38663EA2135753B5F71",
+      "tracking": [
+        {
+          "sid": "app.ausland.uk-reform-partei-grossbritannien-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240203T1944",
+          "otp": "meldung",
+          "cid": "uk-reform-partei-grossbritannien-100",
+          "pti": "Reform_UK_-_eine_Gefahr_fuer_die_Konservativen",
+          "bcr": "nein",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Großbritannien ",
+      "firstSentence": "Die Partei Reform UK setzt den regierenden Tories mit scharfer Kritik von rechts zu.",
+      "details": "https://www.tagesschau.de/api2u/ausland/uk-reform-partei-grossbritannien-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/uk-reform-partei-grossbritannien-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/uk-reform-partei-grossbritannien-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "italien-kronprinz-savoyen-verstorben-100",
+      "externalId": "10ef87ea-aa2f-41fb-8bb7-877b77ad955c",
+      "title": "Italiens letzter Kronprinz gestorben",
+      "date": "2024-02-03T18:41:40.451+01:00",
+      "teaserImage": {
+        "alttext": "Vittorio Emanuele von Savoyen (Archivbild)",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/0dd8cb84-092c-4509-af81-1e9653324e4e/AAABjXAPzBo/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/0dd8cb84-092c-4509-af81-1e9653324e4e/AAABjXAPzBo/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/0dd8cb84-092c-4509-af81-1e9653324e4e/AAABjXAPzBo/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/0dd8cb84-092c-4509-af81-1e9653324e4e/AAABjXAPzBo/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/0dd8cb84-092c-4509-af81-1e9653324e4e/AAABjXAPzBo/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/0dd8cb84-092c-4509-af81-1e9653324e4e/AAABjXAPzBo/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/0dd8cb84-092c-4509-af81-1e9653324e4e/AAABjXAPzBo/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/0dd8cb84-092c-4509-af81-1e9653324e4e/AAABjXAPzBo/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/0dd8cb84-092c-4509-af81-1e9653324e4e/AAABjXAPzBo/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/0dd8cb84-092c-4509-af81-1e9653324e4e/AAABjXAPzBo/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/0dd8cb84-092c-4509-af81-1e9653324e4e/AAABjXAPzBo/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/0dd8cb84-092c-4509-af81-1e9653324e4e/AAABjXAPzBo/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Italien"
+        },
+        {
+          "tag": "Kronprinz"
+        },
+        {
+          "tag": "Savoyen"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/italien-kronprinz-savoyen-verstorben-100.json?view=hasChanged&lastKnown=B4B3705AB7E0FAF51252863CA72CDED3",
+      "tracking": [
+        {
+          "sid": "app.ausland.italien-kronprinz-savoyen-verstorben-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240203T1841",
+          "otp": "meldung",
+          "cid": "italien-kronprinz-savoyen-verstorben-100",
+          "pti": "Italiens_letzter_Kronprinz_mit_86_Jahren_gestorben",
+          "bcr": "nein",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Vittorio Emanuele von Savoyen ",
+      "firstSentence": "Der Sohn des letzten italienischen Königs Umberto II starb im Alter von 86 Jahren in der Schweiz. ",
+      "details": "https://www.tagesschau.de/api2u/ausland/italien-kronprinz-savoyen-verstorben-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/italien-kronprinz-savoyen-verstorben-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/italien-kronprinz-savoyen-verstorben-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "us-angriffe-reaktionen-100",
+      "externalId": "58592acc-3df7-4a26-8232-659646d1c13f",
+      "title": "Warnungen vor einer weiteren Eskalation",
+      "date": "2024-02-03T18:29:09.461+01:00",
+      "teaserImage": {
+        "alttext": "Blick auf die Zerstörung nach einem Luftangriff von US-Kampfflugzeugen auf das Hauptquartier der Hashd al-Shaabi in der Stadt Al-Qaim, Irak",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/65b86378-a2b0-4275-8e13-af6892ed412b/AAABjW6u4t0/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/65b86378-a2b0-4275-8e13-af6892ed412b/AAABjW6u4t0/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/65b86378-a2b0-4275-8e13-af6892ed412b/AAABjW6u4t0/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/65b86378-a2b0-4275-8e13-af6892ed412b/AAABjW6u4t0/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/65b86378-a2b0-4275-8e13-af6892ed412b/AAABjW6u4t0/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/65b86378-a2b0-4275-8e13-af6892ed412b/AAABjW6u4t0/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/65b86378-a2b0-4275-8e13-af6892ed412b/AAABjW6u4t0/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/65b86378-a2b0-4275-8e13-af6892ed412b/AAABjW6u4t0/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/65b86378-a2b0-4275-8e13-af6892ed412b/AAABjW6u4t0/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/65b86378-a2b0-4275-8e13-af6892ed412b/AAABjW6u4t0/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/65b86378-a2b0-4275-8e13-af6892ed412b/AAABjW6u4t0/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/65b86378-a2b0-4275-8e13-af6892ed412b/AAABjW6u4t0/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "USA"
+        },
+        {
+          "tag": "Syrien"
+        },
+        {
+          "tag": "Irak"
+        },
+        {
+          "tag": "Nahost"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/us-angriffe-reaktionen-100.json?view=hasChanged&lastKnown=7191E2FEFF78B917366ADFC936C823EB",
+      "tracking": [
+        {
+          "sid": "app.ausland.asien.us-angriffe-reaktionen-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240203T1313",
+          "otp": "meldung",
+          "cid": "us-angriffe-reaktionen-100",
+          "pti": "Irak_und_Syrien_verurteilen_naechtliche_US-Angriffe",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Reaktionen auf US-Angriffe in Nahost",
+      "firstSentence": "Syrien hat die US-Angriffe verurteilt. Die Region stehe \"am Rande des Abgrunds\", warnt die irakische Regierung.",
+      "details": "https://www.tagesschau.de/api2u/ausland/asien/us-angriffe-reaktionen-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/asien/us-angriffe-reaktionen-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/asien/us-angriffe-reaktionen-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "nordirland-regierung-110",
+      "externalId": "c964dfd2-6656-4dbe-a3ef-ef9c3ad50bc5",
+      "title": "Erstmals Katholikin an Nordirlands Regierungsspitze",
+      "date": "2024-02-03T17:21:10.671+01:00",
+      "teaserImage": {
+        "alttext": "Michelle O’Neill",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/f12f051c-1e4d-4a12-ab2f-a1fa0462425a/AAABjW-r2MI/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/f12f051c-1e4d-4a12-ab2f-a1fa0462425a/AAABjW-r2MI/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/f12f051c-1e4d-4a12-ab2f-a1fa0462425a/AAABjW-r2MI/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/f12f051c-1e4d-4a12-ab2f-a1fa0462425a/AAABjW-r2MI/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/f12f051c-1e4d-4a12-ab2f-a1fa0462425a/AAABjW-r2MI/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/f12f051c-1e4d-4a12-ab2f-a1fa0462425a/AAABjW-r2MI/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/f12f051c-1e4d-4a12-ab2f-a1fa0462425a/AAABjW-r2MI/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/f12f051c-1e4d-4a12-ab2f-a1fa0462425a/AAABjW-r2MI/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/f12f051c-1e4d-4a12-ab2f-a1fa0462425a/AAABjW-r2MI/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/f12f051c-1e4d-4a12-ab2f-a1fa0462425a/AAABjW-r2MI/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/f12f051c-1e4d-4a12-ab2f-a1fa0462425a/AAABjW-r2MI/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/f12f051c-1e4d-4a12-ab2f-a1fa0462425a/AAABjW-r2MI/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Nordirland"
+        },
+        {
+          "tag": "Regierungskrise"
+        },
+        {
+          "tag": "Parlament"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/nordirland-regierung-110.json?view=hasChanged&lastKnown=A93736D3AC7824D0B03649318FB99D51",
+      "tracking": [
+        {
+          "sid": "app.ausland.europa.nordirland-regierung-110",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240203T1721",
+          "otp": "meldung",
+          "cid": "nordirland-regierung-110",
+          "pti": "Erstmals_Katholikin_an_Regierungsspitze_Nordirlands",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Michelle O'Neill ernannt",
+      "firstSentence": "Mit Michelle O'Neill von der Partei Sinn Fein als First Minister steht ihr erstmals eine Katholikin vor. ",
+      "details": "https://www.tagesschau.de/api2u/ausland/europa/nordirland-regierung-110.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/europa/nordirland-regierung-110.html",
+      "shareURL": "https://www.tagesschau.de/ausland/europa/nordirland-regierung-110.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "waldbraende-chile-102",
+      "externalId": "1ab06aa4-7ec3-4ca1-bc81-c3a5d94ec3c2",
+      "title": "Mehrere Tote bei Waldbränden in Chile",
+      "date": "2024-02-03T16:58:01.818+01:00",
+      "teaserImage": {
+        "alttext": "Häuser im chilenischen Vina del Mar stehen in Flammen",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/4ebab853-3e3b-49c2-b91d-bfc677e81d25/AAABjW4tQXQ/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/4ebab853-3e3b-49c2-b91d-bfc677e81d25/AAABjW4tQXQ/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/4ebab853-3e3b-49c2-b91d-bfc677e81d25/AAABjW4tQXQ/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/4ebab853-3e3b-49c2-b91d-bfc677e81d25/AAABjW4tQXQ/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/4ebab853-3e3b-49c2-b91d-bfc677e81d25/AAABjW4tQXQ/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/4ebab853-3e3b-49c2-b91d-bfc677e81d25/AAABjW4tQXQ/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/4ebab853-3e3b-49c2-b91d-bfc677e81d25/AAABjW4tQXQ/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/4ebab853-3e3b-49c2-b91d-bfc677e81d25/AAABjW4tQXQ/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/4ebab853-3e3b-49c2-b91d-bfc677e81d25/AAABjW4tQXQ/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/4ebab853-3e3b-49c2-b91d-bfc677e81d25/AAABjW4tQXQ/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/4ebab853-3e3b-49c2-b91d-bfc677e81d25/AAABjW4tQXQ/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/4ebab853-3e3b-49c2-b91d-bfc677e81d25/AAABjW4tQXQ/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Chile"
+        },
+        {
+          "tag": "Waldbrände"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/waldbraende-chile-102.json?view=hasChanged&lastKnown=CB52C61794E7DB4678ACE0B5F4039BD6",
+      "tracking": [
+        {
+          "sid": "app.ausland.amerika.waldbraende-chile-102",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240203T0954",
+          "otp": "meldung",
+          "cid": "waldbraende-chile-102",
+          "pti": "Mehrere_Tote_bei_schweren_Waldbraenden_in_Chile",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Hitzewelle in Südamerika",
+      "firstSentence": "Viele Häuser wurden zerstört. Präsident Boric rief in den betroffenen Gebieten den Notstand aus. ",
+      "details": "https://www.tagesschau.de/api2u/ausland/amerika/waldbraende-chile-102.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/amerika/waldbraende-chile-102.html",
+      "shareURL": "https://www.tagesschau.de/ausland/amerika/waldbraende-chile-102.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "demonstration-moskau-ukraine-100",
+      "externalId": "52be7759-5e3d-4e75-978a-92cd3305ecd3",
+      "title": "Festnahmen bei Protest gegen Ukraine-Krieg ",
+      "date": "2024-02-03T16:51:27.503+01:00",
+      "teaserImage": {
+        "alttext": "Menschen demonstrieren in Moskau gegen den Krieg gegen die Ukraine",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/444a97be-165c-4155-81b7-64e44156300e/AAABjW-q5No/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/444a97be-165c-4155-81b7-64e44156300e/AAABjW-q5No/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/444a97be-165c-4155-81b7-64e44156300e/AAABjW-q5No/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/444a97be-165c-4155-81b7-64e44156300e/AAABjW-q5No/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/444a97be-165c-4155-81b7-64e44156300e/AAABjW-q5No/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/444a97be-165c-4155-81b7-64e44156300e/AAABjW-q5No/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/444a97be-165c-4155-81b7-64e44156300e/AAABjW-q5No/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/444a97be-165c-4155-81b7-64e44156300e/AAABjW-q5No/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/444a97be-165c-4155-81b7-64e44156300e/AAABjW-q5No/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/444a97be-165c-4155-81b7-64e44156300e/AAABjW-q5No/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/444a97be-165c-4155-81b7-64e44156300e/AAABjW-q5No/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/444a97be-165c-4155-81b7-64e44156300e/AAABjW-q5No/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Ukraine"
+        },
+        {
+          "tag": "Russland"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/demonstration-moskau-ukraine-100.json?view=hasChanged&lastKnown=C722B1DA057B833487A11A3419AED25D",
+      "tracking": [
+        {
+          "sid": "app.ausland.europa.demonstration-moskau-ukraine-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240203T1651",
+          "otp": "meldung",
+          "cid": "demonstration-moskau-ukraine-100",
+          "pti": "Festnahmen_bei_Protest_gegen_Ukraine-Krieg_in_Moskau",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Angehörige russischer Soldaten",
+      "firstSentence": "Erneut haben Angehörige von Soldaten, die im Krieg gegen die Ukraine kämpfen, in Moskau demonstriert.",
+      "details": "https://www.tagesschau.de/api2u/ausland/europa/demonstration-moskau-ukraine-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/europa/demonstration-moskau-ukraine-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/europa/demonstration-moskau-ukraine-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "tod-cerny-100",
+      "externalId": "cccbb2bf-6676-45fb-b6bd-07d5a58f38fe",
+      "title": "Tschechischer Diplomat Frantisek Cerny gestorben",
+      "date": "2024-02-03T15:36:58.896+01:00",
+      "teaserImage": {
+        "alttext": "Frantisek Cerny",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/8af418e4-916c-4e67-be9a-9608ec86c81c/AAABjW9KRWM/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/8af418e4-916c-4e67-be9a-9608ec86c81c/AAABjW9KRWM/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/8af418e4-916c-4e67-be9a-9608ec86c81c/AAABjW9KRWM/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/8af418e4-916c-4e67-be9a-9608ec86c81c/AAABjW9KRWM/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/8af418e4-916c-4e67-be9a-9608ec86c81c/AAABjW9KRWM/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/8af418e4-916c-4e67-be9a-9608ec86c81c/AAABjW9KRWM/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/8af418e4-916c-4e67-be9a-9608ec86c81c/AAABjW9KRWM/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/8af418e4-916c-4e67-be9a-9608ec86c81c/AAABjW9KRWM/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/8af418e4-916c-4e67-be9a-9608ec86c81c/AAABjW9KRWM/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/8af418e4-916c-4e67-be9a-9608ec86c81c/AAABjW9KRWM/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/8af418e4-916c-4e67-be9a-9608ec86c81c/AAABjW9KRWM/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/8af418e4-916c-4e67-be9a-9608ec86c81c/AAABjW9KRWM/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Frantisek Cerny"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/tod-cerny-100.json?view=hasChanged&lastKnown=924016C966DDD2F2C1E0172942BB4B93",
+      "tracking": [
+        {
+          "sid": "app.ausland.europa.tod-cerny-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240203T1536",
+          "otp": "meldung",
+          "cid": "tod-cerny-100",
+          "pti": "Tschechischer_Diplomat_Frantisek_Cerny_gestorben",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Im Alter von 92 Jahren",
+      "firstSentence": "Cerny hatte sich die Annäherung Tschechiens und Deutschlands zur Lebensaufgabe gemacht.",
+      "details": "https://www.tagesschau.de/api2u/ausland/europa/tod-cerny-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/europa/tod-cerny-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/europa/tod-cerny-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "israel-krieg-gazastreifen-rafah-100",
+      "externalId": "daf03459-0d28-471e-bf19-9f6cdfdad296",
+      "title": "Baerbock warnt Israel vor Offensive in Rafah",
+      "date": "2024-02-03T13:41:49.784+01:00",
+      "teaserImage": {
+        "alttext": "Bundesaußenministerin Annalena Baerbock äußert sich Ende Januar 2024 vor der Presse.",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/816472d7-271d-491f-8768-4fe1680eca8d/AAABjW69rx0/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/816472d7-271d-491f-8768-4fe1680eca8d/AAABjW69rx0/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/816472d7-271d-491f-8768-4fe1680eca8d/AAABjW69rx0/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/816472d7-271d-491f-8768-4fe1680eca8d/AAABjW69rx0/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/816472d7-271d-491f-8768-4fe1680eca8d/AAABjW69rx0/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/816472d7-271d-491f-8768-4fe1680eca8d/AAABjW69rx0/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/816472d7-271d-491f-8768-4fe1680eca8d/AAABjW69rx0/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/816472d7-271d-491f-8768-4fe1680eca8d/AAABjW69rx0/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/816472d7-271d-491f-8768-4fe1680eca8d/AAABjW69rx0/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/816472d7-271d-491f-8768-4fe1680eca8d/AAABjW69rx0/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/816472d7-271d-491f-8768-4fe1680eca8d/AAABjW69rx0/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/816472d7-271d-491f-8768-4fe1680eca8d/AAABjW69rx0/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Israel"
+        },
+        {
+          "tag": "Gazastreifen"
+        },
+        {
+          "tag": "Rafah"
+        },
+        {
+          "tag": "Nahost"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/israel-krieg-gazastreifen-rafah-100.json?view=hasChanged&lastKnown=B249D6D26A381603F29C414FC4DF1E8D",
+      "tracking": [
+        {
+          "sid": "app.ausland.asien.israel-krieg-gazastreifen-rafah-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240203T1232",
+          "otp": "meldung",
+          "cid": "israel-krieg-gazastreifen-rafah-100",
+          "pti": "Nahost-Krieg_Baerbock_warnt_vor_Offensive_in_Rafah",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Krieg im Gazastreifen",
+      "firstSentence": "Mehr als die Hälfte der Bevölkerung von Gaza hat in dem Ort nahe der ägyptischen Grenze Schutz gesucht.",
+      "details": "https://www.tagesschau.de/api2u/ausland/asien/israel-krieg-gazastreifen-rafah-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/asien/israel-krieg-gazastreifen-rafah-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/asien/israel-krieg-gazastreifen-rafah-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "biden-wahl-schwarze-100",
+      "externalId": "1c2724f7-7912-4165-b56d-705743540f07",
+      "title": "Verliert Biden den Rückhalt schwarzer Wähler?",
+      "date": "2024-02-03T11:50:09.381+01:00",
+      "teaserImage": {
+        "alttext": "Joseph Clarkson (r, 72) führt seinen Stimmzettel während der Vorwahlen der Demokraten in South Carolina in einem Frühwahllokal durch einen Scanner.",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/08a6979f-7703-4d74-8bda-17bbf244246c/AAABjW6XCx8/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/08a6979f-7703-4d74-8bda-17bbf244246c/AAABjW6XCx8/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/08a6979f-7703-4d74-8bda-17bbf244246c/AAABjW6XCx8/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/08a6979f-7703-4d74-8bda-17bbf244246c/AAABjW6XCx8/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/08a6979f-7703-4d74-8bda-17bbf244246c/AAABjW6XCx8/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/08a6979f-7703-4d74-8bda-17bbf244246c/AAABjW6XCx8/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/08a6979f-7703-4d74-8bda-17bbf244246c/AAABjW6XCx8/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/08a6979f-7703-4d74-8bda-17bbf244246c/AAABjW6XCx8/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/08a6979f-7703-4d74-8bda-17bbf244246c/AAABjW6XCx8/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/08a6979f-7703-4d74-8bda-17bbf244246c/AAABjW6XCx8/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/08a6979f-7703-4d74-8bda-17bbf244246c/AAABjW6XCx8/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/08a6979f-7703-4d74-8bda-17bbf244246c/AAABjW6XCx8/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "USA"
+        },
+        {
+          "tag": "Biden"
+        },
+        {
+          "tag": "Präsidentschaftswahl"
+        },
+        {
+          "tag": "US-Vorwahlen"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/biden-wahl-schwarze-100.json?view=hasChanged&lastKnown=BA3667087E7AA13FFDCA0DF673BE1B51",
+      "tracking": [
+        {
+          "sid": "app.ausland.amerika.biden-wahl-schwarze-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240203T1150",
+          "otp": "meldung",
+          "cid": "biden-wahl-schwarze-100",
+          "pti": "US-Vorwahlen_Verliert_Biden_den_Rueckhalt_schwarzer_Waehler",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "US-Vorwahlen",
+      "firstSentence": "In South Carolina, wo viele schwarze Wähler leben, starten heute offiziell die Vorwahlen der Demokraten.",
+      "details": "https://www.tagesschau.de/api2u/ausland/amerika/biden-wahl-schwarze-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/amerika/biden-wahl-schwarze-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/amerika/biden-wahl-schwarze-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "irak-milizen-104",
+      "externalId": "4f204263-712a-4992-9453-60dc5e9e2ead",
+      "title": "Wie konnten die Milizen im Irak so stark werden?",
+      "date": "2024-02-03T11:17:57.680+01:00",
+      "teaserImage": {
+        "alttext": "Mitglieder einer irakischen schiitischen militanten Gruppe tragen den Sarg eines Kämpfers der Kataib-Hezbollah-Miliz, der bei einem US-Luftangriff in der Provinz Babil getötet wurde, während seiner Beerdigung in Bagdad, Irak. (Archivbild vom 26. Dezember 2024)",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/b3d4fe0f-b8a2-42d5-9b39-180ac521baf8/AAABjW55jks/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/b3d4fe0f-b8a2-42d5-9b39-180ac521baf8/AAABjW55jks/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/b3d4fe0f-b8a2-42d5-9b39-180ac521baf8/AAABjW55jks/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/b3d4fe0f-b8a2-42d5-9b39-180ac521baf8/AAABjW55jks/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/b3d4fe0f-b8a2-42d5-9b39-180ac521baf8/AAABjW55jks/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/b3d4fe0f-b8a2-42d5-9b39-180ac521baf8/AAABjW55jks/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/b3d4fe0f-b8a2-42d5-9b39-180ac521baf8/AAABjW55jks/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/b3d4fe0f-b8a2-42d5-9b39-180ac521baf8/AAABjW55jks/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/b3d4fe0f-b8a2-42d5-9b39-180ac521baf8/AAABjW55jks/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/b3d4fe0f-b8a2-42d5-9b39-180ac521baf8/AAABjW55jks/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/b3d4fe0f-b8a2-42d5-9b39-180ac521baf8/AAABjW55jks/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/b3d4fe0f-b8a2-42d5-9b39-180ac521baf8/AAABjW55jks/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Irak"
+        },
+        {
+          "tag": "Milizen"
+        },
+        {
+          "tag": "USA"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/irak-milizen-104.json?view=hasChanged&lastKnown=65C1C5EC15FA93FCCB16006F40C5FD13",
+      "tracking": [
+        {
+          "sid": "app.ausland.asien.irak-milizen-104",
+          "src": "ard-aktuell",
+          "ctp": "HINTERGRUND",
+          "pdt": "20240203T1117",
+          "otp": "meldung",
+          "cid": "irak-milizen-104",
+          "pti": "Hintergrund_Wie_konnten_die_Milizen_im_Irak_so_stark_werden",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Naher Osten",
+      "firstSentence": "Die Sorge vor einer Ausweitung des Nahost-Konflikts wächst - eine Rolle dabei spielen die Milizen im Irak.",
+      "details": "https://www.tagesschau.de/api2u/ausland/asien/irak-milizen-104.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/asien/irak-milizen-104.html",
+      "shareURL": "https://www.tagesschau.de/ausland/asien/irak-milizen-104.html",
+      "comments": "https://www.tagesschau.de/api2u/irak-milizen-104.json?view=comment",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "slowo-pazana-100",
+      "externalId": "585a9728-9a20-432b-8956-a38be6fcc24c",
+      "title": "Eine Jugendbande begeistert Russland",
+      "date": "2024-02-03T08:41:42.990+01:00",
+      "teaserImage": {
+        "copyright": "Rostelecom",
+        "alttext": "Die Hauptdarsteller der Serie \"Slowo Pazana\" auf einem Pressefoto von Rostelecom.",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/b7557ff6-0578-4739-81b0-dfaa56d78632/AAABjW3qhL0/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/b7557ff6-0578-4739-81b0-dfaa56d78632/AAABjW3qhL0/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/b7557ff6-0578-4739-81b0-dfaa56d78632/AAABjW3qhL0/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/b7557ff6-0578-4739-81b0-dfaa56d78632/AAABjW3qhL0/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/b7557ff6-0578-4739-81b0-dfaa56d78632/AAABjW3qhL0/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/b7557ff6-0578-4739-81b0-dfaa56d78632/AAABjW3qhL0/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/b7557ff6-0578-4739-81b0-dfaa56d78632/AAABjW3qhL0/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/b7557ff6-0578-4739-81b0-dfaa56d78632/AAABjW3qhL0/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/b7557ff6-0578-4739-81b0-dfaa56d78632/AAABjW3qhL0/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/b7557ff6-0578-4739-81b0-dfaa56d78632/AAABjW3qhL0/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/b7557ff6-0578-4739-81b0-dfaa56d78632/AAABjW3qhL0/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/b7557ff6-0578-4739-81b0-dfaa56d78632/AAABjW3qhL0/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Russland"
+        },
+        {
+          "tag": "Medien"
+        },
+        {
+          "tag": "Serie"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/slowo-pazana-100.json?view=hasChanged&lastKnown=EE1BC3579672432DB5962625B6C8B81F",
+      "tracking": [
+        {
+          "sid": "app.ausland.asien.slowo-pazana-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240203T0841",
+          "otp": "meldung",
+          "cid": "slowo-pazana-100",
+          "pti": "Serie_Slowo_Pazana_Eine_Jugendbande_begeistert_Russland",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Serie \"Slowo Pazana\"",
+      "firstSentence": "Kerl oder Opfer? Was der Erfolg der TV-Serie \"Slowo Pazana\" über Russlands Gegenwart aussagt",
+      "details": "https://www.tagesschau.de/api2u/ausland/asien/slowo-pazana-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/asien/slowo-pazana-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/asien/slowo-pazana-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "trump-wahlbetrug-prozess-verschiebung-100",
+      "externalId": "369ccb73-c99c-4011-844b-22ba2d68185a",
+      "title": "Wahlbetrugsprozess gegen Trump verschoben",
+      "date": "2024-02-03T05:14:46.314+01:00",
+      "teaserImage": {
+        "alttext": "Donald Trump in New Hampshire",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/271aa3e1-84fe-40d9-b154-8ec21ce8e781/AAABjTkpLJ0/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/271aa3e1-84fe-40d9-b154-8ec21ce8e781/AAABjTkpLJ0/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/271aa3e1-84fe-40d9-b154-8ec21ce8e781/AAABjTkpLJ0/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/271aa3e1-84fe-40d9-b154-8ec21ce8e781/AAABjTkpLJ0/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/271aa3e1-84fe-40d9-b154-8ec21ce8e781/AAABjTkpLJ0/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/271aa3e1-84fe-40d9-b154-8ec21ce8e781/AAABjTkpLJ0/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/271aa3e1-84fe-40d9-b154-8ec21ce8e781/AAABjTkpLJ0/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/271aa3e1-84fe-40d9-b154-8ec21ce8e781/AAABjTkpLJ0/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/271aa3e1-84fe-40d9-b154-8ec21ce8e781/AAABjTkpLJ0/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/271aa3e1-84fe-40d9-b154-8ec21ce8e781/AAABjTkpLJ0/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/271aa3e1-84fe-40d9-b154-8ec21ce8e781/AAABjTkpLJ0/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/271aa3e1-84fe-40d9-b154-8ec21ce8e781/AAABjTkpLJ0/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Trump"
+        },
+        {
+          "tag": "Wahlbetrugsvorwürfe"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/trump-wahlbetrug-prozess-verschiebung-100.json?view=hasChanged&lastKnown=BA93F99876A5D90735EADD37EC536C70",
+      "tracking": [
+        {
+          "sid": "app.ausland.trump-wahlbetrug-prozess-verschiebung-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240203T0514",
+          "otp": "meldung",
+          "cid": "trump-wahlbetrug-prozess-verschiebung-100",
+          "pti": "Richterin_verschiebt_Wahlbetrugsprozess_gegen_Trump",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Offene Rechtsfragen",
+      "firstSentence": "Der Prozess gegen den früheren US-Präsidenten soll später starten als geplant. ",
+      "details": "https://www.tagesschau.de/api2u/ausland/trump-wahlbetrug-prozess-verschiebung-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/trump-wahlbetrug-prozess-verschiebung-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/trump-wahlbetrug-prozess-verschiebung-100.html",
+      "comments": "https://www.tagesschau.de/api2u/trump-wahlbetrug-prozess-verschiebung-100.json?view=comment",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "nordirland-regierung-108",
+      "externalId": "ee3cb773-848c-4729-8842-db61940ebf89",
+      "title": "Eine Regierung für Nordirland in Sicht",
+      "date": "2024-02-03T03:55:21.026+01:00",
+      "teaserImage": {
+        "alttext": "Das Parlamentsgebäude in Stormont, Belfast (Nordirland)",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/a046d905-99de-47e8-8a53-d8053f874d1a/AAABjWr2Fj4/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/a046d905-99de-47e8-8a53-d8053f874d1a/AAABjWr2Fj4/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/a046d905-99de-47e8-8a53-d8053f874d1a/AAABjWr2Fj4/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/a046d905-99de-47e8-8a53-d8053f874d1a/AAABjWr2Fj4/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/a046d905-99de-47e8-8a53-d8053f874d1a/AAABjWr2Fj4/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/a046d905-99de-47e8-8a53-d8053f874d1a/AAABjWr2Fj4/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/a046d905-99de-47e8-8a53-d8053f874d1a/AAABjWr2Fj4/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/a046d905-99de-47e8-8a53-d8053f874d1a/AAABjWr2Fj4/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/a046d905-99de-47e8-8a53-d8053f874d1a/AAABjWr2Fj4/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/a046d905-99de-47e8-8a53-d8053f874d1a/AAABjWr2Fj4/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/a046d905-99de-47e8-8a53-d8053f874d1a/AAABjWr2Fj4/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/a046d905-99de-47e8-8a53-d8053f874d1a/AAABjWr2Fj4/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Nordirland"
+        },
+        {
+          "tag": "Regierungskrise"
+        },
+        {
+          "tag": "Parlament"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/nordirland-regierung-108.json?view=hasChanged&lastKnown=C5CD56B765E3CAEF9488C34A5F5542F0",
+      "tracking": [
+        {
+          "sid": "app.ausland.europa.nordirland-regierung-108",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240203T0355",
+          "otp": "meldung",
+          "cid": "nordirland-regierung-108",
+          "pti": "Regierungskrise_in_Nordirland_soll_nach_zwei_Jahren_enden",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Nach zwei Jahren Regierungskrise",
+      "firstSentence": "An die Macht kommt Sinn Fein, die eine Vereinigung mit Irland anstrebt.",
+      "details": "https://www.tagesschau.de/api2u/ausland/europa/nordirland-regierung-108.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/europa/nordirland-regierung-108.html",
+      "shareURL": "https://www.tagesschau.de/ausland/europa/nordirland-regierung-108.html",
+      "comments": "https://www.tagesschau.de/api2u/nordirland-regierung-108.json?view=comment",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "argentinien-reformpaket-zustimmung-parlament-100",
+      "externalId": "c5139d70-3a35-4167-aaaf-afc63d77c7a6",
+      "title": "Mileis Reformpläne nehmen erste Hürde ",
+      "date": "2024-02-03T03:52:27.673+01:00",
+      "teaserImage": {
+        "alttext": "Der Plenarsaal des argentinischen Parlaments",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/b094f7e0-ea0b-4707-bcb3-a53c1c07425c/AAABjWzds6g/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/b094f7e0-ea0b-4707-bcb3-a53c1c07425c/AAABjWzds6g/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/b094f7e0-ea0b-4707-bcb3-a53c1c07425c/AAABjWzds6g/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/b094f7e0-ea0b-4707-bcb3-a53c1c07425c/AAABjWzds6g/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/b094f7e0-ea0b-4707-bcb3-a53c1c07425c/AAABjWzds6g/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/b094f7e0-ea0b-4707-bcb3-a53c1c07425c/AAABjWzds6g/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/b094f7e0-ea0b-4707-bcb3-a53c1c07425c/AAABjWzds6g/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/b094f7e0-ea0b-4707-bcb3-a53c1c07425c/AAABjWzds6g/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/b094f7e0-ea0b-4707-bcb3-a53c1c07425c/AAABjWzds6g/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/b094f7e0-ea0b-4707-bcb3-a53c1c07425c/AAABjWzds6g/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/b094f7e0-ea0b-4707-bcb3-a53c1c07425c/AAABjWzds6g/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/b094f7e0-ea0b-4707-bcb3-a53c1c07425c/AAABjWzds6g/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Milei"
+        },
+        {
+          "tag": "Argentinien"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/argentinien-reformpaket-zustimmung-parlament-100.json?view=hasChanged&lastKnown=19530761BB57F324ECF36930E1639644",
+      "tracking": [
+        {
+          "sid": "app.ausland.amerika.argentinien-reformpaket-zustimmung-parlament-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240203T0352",
+          "otp": "meldung",
+          "cid": "argentinien-reformpaket-zustimmung-parlament-100",
+          "pti": "Mileis_Reformplaene_nehmen_in_Argentiniens_Parlament_erste_Huerde",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Argentinien",
+      "firstSentence": "Eine Mehrheit im Parlament stimmte grundsätzlich für sein Reformpaket, das die Wirtschaft deregulieren soll.",
+      "details": "https://www.tagesschau.de/api2u/ausland/amerika/argentinien-reformpaket-zustimmung-parlament-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/amerika/argentinien-reformpaket-zustimmung-parlament-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/amerika/argentinien-reformpaket-zustimmung-parlament-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "usa-vergeltungsangriffe-syrien-irak-100",
+      "externalId": "d621dd0a-f9ea-47fb-9b70-d91cafdcc368",
+      "title": "USA greifen Ziele in Syrien und im Irak an",
+      "date": "2024-02-03T02:42:55.891+01:00",
+      "teaserImage": {
+        "alttext": "Joe Biden",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/b213833d-4968-438f-b642-19ee8d30e605/AAABjWZx_1M/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Naher Osten"
+        },
+        {
+          "tag": "USA"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/usa-vergeltungsangriffe-syrien-irak-100.json?view=hasChanged&lastKnown=6EBDA119FDE9A374190C6BCC283EAF21",
+      "tracking": [
+        {
+          "sid": "app.ausland.amerika.usa-vergeltungsangriffe-syrien-irak-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240202T2347",
+          "otp": "meldung",
+          "cid": "usa-vergeltungsangriffe-syrien-irak-100",
+          "pti": "USA_bombardieren_pro-iranische_Milizen_im_Irak_und_in_Syrien",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Vergeltung für getötete Soldaten",
+      "firstSentence": "Die USA haben als Vergeltung pro-iranische Milizen in Syrien und im Irak bombardiert.\r\n",
+      "details": "https://www.tagesschau.de/api2u/ausland/amerika/usa-vergeltungsangriffe-syrien-irak-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/amerika/usa-vergeltungsangriffe-syrien-irak-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/amerika/usa-vergeltungsangriffe-syrien-irak-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "carl-weathers-gestorben-100",
+      "externalId": "1dd797b6-ea9a-4031-8ad6-81ae0fb45f3e",
+      "title": "US-Schauspieler Carl Weathers ist tot",
+      "date": "2024-02-02T21:57:56.714+01:00",
+      "teaserImage": {
+        "alttext": "Carl Weathers (Archivbild von 2023)",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/968156d2-00ef-4fc8-b336-f5b60a4222e2/AAABjWuU2Sw/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/968156d2-00ef-4fc8-b336-f5b60a4222e2/AAABjWuU2Sw/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/968156d2-00ef-4fc8-b336-f5b60a4222e2/AAABjWuU2Sw/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/968156d2-00ef-4fc8-b336-f5b60a4222e2/AAABjWuU2Sw/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/968156d2-00ef-4fc8-b336-f5b60a4222e2/AAABjWuU2Sw/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/968156d2-00ef-4fc8-b336-f5b60a4222e2/AAABjWuU2Sw/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/968156d2-00ef-4fc8-b336-f5b60a4222e2/AAABjWuU2Sw/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/968156d2-00ef-4fc8-b336-f5b60a4222e2/AAABjWuU2Sw/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/968156d2-00ef-4fc8-b336-f5b60a4222e2/AAABjWuU2Sw/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/968156d2-00ef-4fc8-b336-f5b60a4222e2/AAABjWuU2Sw/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/968156d2-00ef-4fc8-b336-f5b60a4222e2/AAABjWuU2Sw/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/968156d2-00ef-4fc8-b336-f5b60a4222e2/AAABjWuU2Sw/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Carl Weathers"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/carl-weathers-gestorben-100.json?view=hasChanged&lastKnown=0DA2055A3B890B3D60ABDF4D51BD5DAE",
+      "tracking": [
+        {
+          "sid": "app.ausland.amerika.carl-weathers-gestorben-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240202T2157",
+          "otp": "meldung",
+          "cid": "carl-weathers-gestorben-100",
+          "pti": "Bekannt_aus_Rocky-Filmen_US-Schauspieler_Carl_Weathers_ist_tot",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Bekannt aus \"Rocky\"-Filmen",
+      "firstSentence": "Im Alter von 76 Jahren ist der aus den \"Rocky\"-Filmen bekannte US-Schauspieler Carl Weathers gestorben.",
+      "details": "https://www.tagesschau.de/api2u/ausland/amerika/carl-weathers-gestorben-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/amerika/carl-weathers-gestorben-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/amerika/carl-weathers-gestorben-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "orlow-100",
+      "externalId": "10373b0f-1215-4814-9ed6-13a48fdc4b57",
+      "title": "Bürgerrechtler Orlow zum \"Auslandsagenten\" erklärt",
+      "date": "2024-02-02T21:56:28.946+01:00",
+      "teaserImage": {
+        "alttext": "Oleg Orlow",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/36d95a1f-b064-49c5-8367-9f5e4b5a8a0f/AAABjWuJZNc/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/36d95a1f-b064-49c5-8367-9f5e4b5a8a0f/AAABjWuJZNc/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/36d95a1f-b064-49c5-8367-9f5e4b5a8a0f/AAABjWuJZNc/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/36d95a1f-b064-49c5-8367-9f5e4b5a8a0f/AAABjWuJZNc/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/36d95a1f-b064-49c5-8367-9f5e4b5a8a0f/AAABjWuJZNc/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/36d95a1f-b064-49c5-8367-9f5e4b5a8a0f/AAABjWuJZNc/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/36d95a1f-b064-49c5-8367-9f5e4b5a8a0f/AAABjWuJZNc/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/36d95a1f-b064-49c5-8367-9f5e4b5a8a0f/AAABjWuJZNc/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/36d95a1f-b064-49c5-8367-9f5e4b5a8a0f/AAABjWuJZNc/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/36d95a1f-b064-49c5-8367-9f5e4b5a8a0f/AAABjWuJZNc/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/36d95a1f-b064-49c5-8367-9f5e4b5a8a0f/AAABjWuJZNc/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/36d95a1f-b064-49c5-8367-9f5e4b5a8a0f/AAABjWuJZNc/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Orlow"
+        },
+        {
+          "tag": "Russland"
+        },
+        {
+          "tag": "Bürgerrechtler"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/orlow-100.json?view=hasChanged&lastKnown=2105E552A9CFE55612A54CDAEBB5AE6E",
+      "tracking": [
+        {
+          "sid": "app.ausland.orlow-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240202T2156",
+          "otp": "meldung",
+          "cid": "orlow-100",
+          "pti": "Moskau_stuft_Buergerrechtler_Orlow_als_Auslandsagent_ein",
+          "bcr": "nein",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Russische Behörden",
+      "firstSentence": "Der bekannte russische Aktivist Orlow ist von der Justiz als \"ausländischer Agent\" eingestuft worden.",
+      "details": "https://www.tagesschau.de/api2u/ausland/orlow-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/orlow-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/orlow-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "kosovo-euro-100",
+      "externalId": "ece65f27-ed50-4e08-99fd-9a77d3eb462e",
+      "title": "Kosovo schafft den serbischen Dinar ab",
+      "date": "2024-02-02T19:46:53.723+01:00",
+      "teaserImage": {
+        "alttext": "Serbische Dinar - Geldscheine und Münzen - liegen auf einem Tisch.",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/4f7b259e-d385-4c39-b8b0-1d4499fa9122/AAABjWr6lWY/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/4f7b259e-d385-4c39-b8b0-1d4499fa9122/AAABjWr6lWY/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/4f7b259e-d385-4c39-b8b0-1d4499fa9122/AAABjWr6lWY/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/4f7b259e-d385-4c39-b8b0-1d4499fa9122/AAABjWr6lWY/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/4f7b259e-d385-4c39-b8b0-1d4499fa9122/AAABjWr6lWY/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/4f7b259e-d385-4c39-b8b0-1d4499fa9122/AAABjWr6lWY/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/4f7b259e-d385-4c39-b8b0-1d4499fa9122/AAABjWr6lWY/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/4f7b259e-d385-4c39-b8b0-1d4499fa9122/AAABjWr6lWY/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/4f7b259e-d385-4c39-b8b0-1d4499fa9122/AAABjWr6lWY/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/4f7b259e-d385-4c39-b8b0-1d4499fa9122/AAABjWr6lWY/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/4f7b259e-d385-4c39-b8b0-1d4499fa9122/AAABjWr6lWY/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/4f7b259e-d385-4c39-b8b0-1d4499fa9122/AAABjWr6lWY/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Kosovo"
+        },
+        {
+          "tag": "Serbien EU"
+        },
+        {
+          "tag": "Dinar"
+        },
+        {
+          "tag": "Euro"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/kosovo-euro-100.json?view=hasChanged&lastKnown=0D2DBAD63E9DD29D0F8A99ED6906CD94",
+      "tracking": [
+        {
+          "sid": "app.ausland.kosovo-euro-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240202T1946",
+          "otp": "meldung",
+          "cid": "kosovo-euro-100",
+          "pti": "Kosovo_schafft_den_serbischen_Dinar_ab",
+          "bcr": "nein",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Neuer Konfliktstoff",
+      "firstSentence": "Im Kosovo wird mit dem Euro bezahlt - eigentlich.",
+      "details": "https://www.tagesschau.de/api2u/ausland/kosovo-euro-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/kosovo-euro-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/kosovo-euro-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "ukraine-munition-nachschub-100",
+      "externalId": "9461fc77-6e45-4916-8b91-570a7b60a360",
+      "title": "Warten auf die Munition ",
+      "date": "2024-02-02T18:50:45.590+01:00",
+      "teaserImage": {
+        "alttext": "Ein ukrainischer Soldat sitzt in einem Unterschlupf",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/22f8a5bd-16b5-466f-95e5-fc848a6dfae6/AAABjWrUaVE/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/22f8a5bd-16b5-466f-95e5-fc848a6dfae6/AAABjWrUaVE/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/22f8a5bd-16b5-466f-95e5-fc848a6dfae6/AAABjWrUaVE/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/22f8a5bd-16b5-466f-95e5-fc848a6dfae6/AAABjWrUaVE/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/22f8a5bd-16b5-466f-95e5-fc848a6dfae6/AAABjWrUaVE/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/22f8a5bd-16b5-466f-95e5-fc848a6dfae6/AAABjWrUaVE/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/22f8a5bd-16b5-466f-95e5-fc848a6dfae6/AAABjWrUaVE/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/22f8a5bd-16b5-466f-95e5-fc848a6dfae6/AAABjWrUaVE/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/22f8a5bd-16b5-466f-95e5-fc848a6dfae6/AAABjWrUaVE/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/22f8a5bd-16b5-466f-95e5-fc848a6dfae6/AAABjWrUaVE/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/22f8a5bd-16b5-466f-95e5-fc848a6dfae6/AAABjWrUaVE/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/22f8a5bd-16b5-466f-95e5-fc848a6dfae6/AAABjWrUaVE/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Ukraine"
+        },
+        {
+          "tag": "Russland"
+        },
+        {
+          "tag": "Munition"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/ukraine-munition-nachschub-100.json?view=hasChanged&lastKnown=1AED5C4932B45BBDB3311B62C718368C",
+      "tracking": [
+        {
+          "sid": "app.ausland.europa.ukraine-munition-nachschub-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240202T1850",
+          "otp": "meldung",
+          "cid": "ukraine-munition-nachschub-100",
+          "pti": "Krieg_gegen_die_Ukraine_Warten_auf_die_Munition",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Krieg gegen die Ukraine",
+      "firstSentence": "Die Ukraine gerät an der Front immer mehr unter Druck.",
+      "details": "https://www.tagesschau.de/api2u/ausland/europa/ukraine-munition-nachschub-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/europa/ukraine-munition-nachschub-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/europa/ukraine-munition-nachschub-100.html",
+      "comments": "https://www.tagesschau.de/api2u/ukraine-munition-nachschub-100.json?view=comment",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "ki-gesetz-eu-100",
+      "externalId": "77a1c433-5895-4aa4-8f3f-aea9a3bc3fc8",
+      "title": "Mit 892 Seiten zur europäischen KI-Revolution?",
+      "date": "2024-02-02T17:27:54.685+01:00",
+      "teaserImage": {
+        "alttext": "Auf dem Monitor eines Handys ist das ChatGPT-Logo zu sehen. ",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/5200795b-1b70-4ab7-b15e-bd1e917bc56f/AAABjA71SZg/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/5200795b-1b70-4ab7-b15e-bd1e917bc56f/AAABjA71SZg/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/5200795b-1b70-4ab7-b15e-bd1e917bc56f/AAABjA71SZg/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/5200795b-1b70-4ab7-b15e-bd1e917bc56f/AAABjA71SZg/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/5200795b-1b70-4ab7-b15e-bd1e917bc56f/AAABjA71SZg/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/5200795b-1b70-4ab7-b15e-bd1e917bc56f/AAABjA71SZg/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/5200795b-1b70-4ab7-b15e-bd1e917bc56f/AAABjA71SZg/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/5200795b-1b70-4ab7-b15e-bd1e917bc56f/AAABjA71SZg/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/5200795b-1b70-4ab7-b15e-bd1e917bc56f/AAABjA71SZg/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/5200795b-1b70-4ab7-b15e-bd1e917bc56f/AAABjA71SZg/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/5200795b-1b70-4ab7-b15e-bd1e917bc56f/AAABjA71SZg/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/5200795b-1b70-4ab7-b15e-bd1e917bc56f/AAABjA71SZg/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Künstliche Intelligenz"
+        },
+        {
+          "tag": "EU"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/ki-gesetz-eu-100.json?view=hasChanged&lastKnown=0FD821C24B27D46BF95A6B14AB4596B8",
+      "tracking": [
+        {
+          "sid": "app.ausland.europa.ki-gesetz-eu-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240202T0900",
+          "otp": "meldung",
+          "cid": "ki-gesetz-eu-100",
+          "pti": "EU_bringt_Gesetz_zur_Kuenstlichen_Intelligenz_auf_den_Weg",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "EU-Gesetz für Künstliche Intelligenz",
+      "firstSentence": "Das Gesetz zur Regulierung Künstlicher Intelligenz rückt näher, die EU-Staaten wollen den Entwurf absegnen.",
+      "details": "https://www.tagesschau.de/api2u/ausland/europa/ki-gesetz-eu-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/europa/ki-gesetz-eu-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/europa/ki-gesetz-eu-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "igh-klage-ukraine-100",
+      "externalId": "f959d4a3-33a9-4c18-aa7f-9d76e3f185af",
+      "title": "UN-Gericht nimmt ukrainische Klage weitgehend an",
+      "date": "2024-02-02T17:06:26.732+01:00",
+      "teaserImage": {
+        "alttext": "Joan Donoghue (M), Vorsitzende Richterin, verliest die Entscheidung des obersten Gerichtshofs der Vereinten Nationen über die Zuständigkeit für eine Klage von Ukraine gegen Russland.",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/ed428847-7631-4fa9-b00d-68ed7f3cbb24/AAABjWpwncU/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/ed428847-7631-4fa9-b00d-68ed7f3cbb24/AAABjWpwncU/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/ed428847-7631-4fa9-b00d-68ed7f3cbb24/AAABjWpwncU/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/ed428847-7631-4fa9-b00d-68ed7f3cbb24/AAABjWpwncU/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/ed428847-7631-4fa9-b00d-68ed7f3cbb24/AAABjWpwncU/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/ed428847-7631-4fa9-b00d-68ed7f3cbb24/AAABjWpwncU/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/ed428847-7631-4fa9-b00d-68ed7f3cbb24/AAABjWpwncU/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/ed428847-7631-4fa9-b00d-68ed7f3cbb24/AAABjWpwncU/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/ed428847-7631-4fa9-b00d-68ed7f3cbb24/AAABjWpwncU/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/ed428847-7631-4fa9-b00d-68ed7f3cbb24/AAABjWpwncU/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/ed428847-7631-4fa9-b00d-68ed7f3cbb24/AAABjWpwncU/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/ed428847-7631-4fa9-b00d-68ed7f3cbb24/AAABjWpwncU/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "IGH"
+        },
+        {
+          "tag": "Ukraine"
+        },
+        {
+          "tag": "Russland"
+        },
+        {
+          "tag": "Völkermord"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/igh-klage-ukraine-100.json?view=hasChanged&lastKnown=E187A8BFB3629440979EC1577CF7CEA1",
+      "tracking": [
+        {
+          "sid": "app.ausland.europa.igh-klage-ukraine-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240202T1656",
+          "otp": "meldung",
+          "cid": "igh-klage-ukraine-100",
+          "pti": "UN-Gericht_nimmt_Klage_der_Ukraine_gegen_Russland_weitgehend_an",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Russischer Angriffskrieg",
+      "firstSentence": "Die Ukraine wirft Russland vor, den Angriffskrieg zu Unrecht mit einem \"Genozid\" begründet zu haben.",
+      "details": "https://www.tagesschau.de/api2u/ausland/europa/igh-klage-ukraine-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/europa/igh-klage-ukraine-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/europa/igh-klage-ukraine-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "ukraine-russland-flugzeugabsturz-uebergabe-opfer-100",
+      "externalId": "8e8bef3f-5e0a-4790-9405-6b2480b1e9cc",
+      "title": "Streit um Opfer des Flugzeugabsturzes ",
+      "date": "2024-02-02T14:07:25.147+01:00",
+      "teaserImage": {
+        "alttext": "Rauch und Flammen sind in der Ferne zu sehen. (Archiv)",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/b46e2616-0bb3-4b3d-a4c7-a6c75313b6df/AAABjWrc6qQ/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/b46e2616-0bb3-4b3d-a4c7-a6c75313b6df/AAABjWrc6qQ/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/b46e2616-0bb3-4b3d-a4c7-a6c75313b6df/AAABjWrc6qQ/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/b46e2616-0bb3-4b3d-a4c7-a6c75313b6df/AAABjWrc6qQ/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/b46e2616-0bb3-4b3d-a4c7-a6c75313b6df/AAABjWrc6qQ/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/b46e2616-0bb3-4b3d-a4c7-a6c75313b6df/AAABjWrc6qQ/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/b46e2616-0bb3-4b3d-a4c7-a6c75313b6df/AAABjWrc6qQ/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/b46e2616-0bb3-4b3d-a4c7-a6c75313b6df/AAABjWrc6qQ/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/b46e2616-0bb3-4b3d-a4c7-a6c75313b6df/AAABjWrc6qQ/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/b46e2616-0bb3-4b3d-a4c7-a6c75313b6df/AAABjWrc6qQ/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/b46e2616-0bb3-4b3d-a4c7-a6c75313b6df/AAABjWrc6qQ/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/b46e2616-0bb3-4b3d-a4c7-a6c75313b6df/AAABjWrc6qQ/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Russland"
+        },
+        {
+          "tag": "Ukraine"
+        },
+        {
+          "tag": "Ukraine-Krieg"
+        },
+        {
+          "tag": "Flugzeugabsturz"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/ukraine-russland-flugzeugabsturz-uebergabe-opfer-100.json?view=hasChanged&lastKnown=D61DB3556B22023036D2EC7C30F80AFC",
+      "tracking": [
+        {
+          "sid": "app.ausland.europa.ukraine-russland-flugzeugabsturz-uebergabe-opfer-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240202T1407",
+          "otp": "meldung",
+          "cid": "ukraine-russland-flugzeugabsturz-uebergabe-opfer-100",
+          "pti": "Streit_um_Opfer_des_Flugzeugabsturzes_bei_Belgorod",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Ukraine beschuldigt Moskau",
+      "firstSentence": "Nach dem Flugzeugabsturz über Belgorod bleiben viele Fragen offen.",
+      "details": "https://www.tagesschau.de/api2u/ausland/europa/ukraine-russland-flugzeugabsturz-uebergabe-opfer-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/europa/ukraine-russland-flugzeugabsturz-uebergabe-opfer-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/europa/ukraine-russland-flugzeugabsturz-uebergabe-opfer-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "nahost-gaza-rafah-israel-100",
+      "externalId": "d64b044d-df57-44be-aa0d-5dff6ddee986",
+      "title": "Israel will Offensive bis nach Rafah ausweiten",
+      "date": "2024-02-02T13:50:44.784+01:00",
+      "teaserImage": {
+        "alttext": "Rauchwolken über Rafah",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/f36df18c-7f69-4f41-b4cb-bd5e3e613fc9/AAABjWmWKvM/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/f36df18c-7f69-4f41-b4cb-bd5e3e613fc9/AAABjWmWKvM/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/f36df18c-7f69-4f41-b4cb-bd5e3e613fc9/AAABjWmWKvM/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/f36df18c-7f69-4f41-b4cb-bd5e3e613fc9/AAABjWmWKvM/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/f36df18c-7f69-4f41-b4cb-bd5e3e613fc9/AAABjWmWKvM/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/f36df18c-7f69-4f41-b4cb-bd5e3e613fc9/AAABjWmWKvM/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/f36df18c-7f69-4f41-b4cb-bd5e3e613fc9/AAABjWmWKvM/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/f36df18c-7f69-4f41-b4cb-bd5e3e613fc9/AAABjWmWKvM/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/f36df18c-7f69-4f41-b4cb-bd5e3e613fc9/AAABjWmWKvM/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/f36df18c-7f69-4f41-b4cb-bd5e3e613fc9/AAABjWmWKvM/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/f36df18c-7f69-4f41-b4cb-bd5e3e613fc9/AAABjWmWKvM/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/f36df18c-7f69-4f41-b4cb-bd5e3e613fc9/AAABjWmWKvM/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Gaza"
+        },
+        {
+          "tag": "Israel"
+        },
+        {
+          "tag": "Krieg"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/nahost-gaza-rafah-israel-100.json?view=hasChanged&lastKnown=7F808ECCE59093801870994B1F40BA18",
+      "tracking": [
+        {
+          "sid": "app.ausland.asien.nahost-gaza-rafah-israel-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240202T1223",
+          "otp": "meldung",
+          "cid": "nahost-gaza-rafah-israel-100",
+          "pti": "Israel_will_Offensive_bis_nach_Rafah_ausweiten",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Krieg in Nahost ",
+      "firstSentence": "In dem Gebiet halten sich inzwischen mehr als eine Million Palästinenser auf. ",
+      "details": "https://www.tagesschau.de/api2u/ausland/asien/nahost-gaza-rafah-israel-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/asien/nahost-gaza-rafah-israel-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/asien/nahost-gaza-rafah-israel-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "taylor-swift-republikaner-100",
+      "externalId": "51ca93d0-f299-4377-9deb-871692f06d9b",
+      "title": "Ferngesteuerte Geheimwaffe der Demokraten?",
+      "date": "2024-02-02T13:06:41.103+01:00",
+      "teaserImage": {
+        "alttext": "Taylor Swift-Fanplakat",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/f9238daa-bae6-435c-b1e7-8a6d261c95f2/AAABjWm2vVM/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/f9238daa-bae6-435c-b1e7-8a6d261c95f2/AAABjWm2vVM/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/f9238daa-bae6-435c-b1e7-8a6d261c95f2/AAABjWm2vVM/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/f9238daa-bae6-435c-b1e7-8a6d261c95f2/AAABjWm2vVM/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/f9238daa-bae6-435c-b1e7-8a6d261c95f2/AAABjWm2vVM/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/f9238daa-bae6-435c-b1e7-8a6d261c95f2/AAABjWm2vVM/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/f9238daa-bae6-435c-b1e7-8a6d261c95f2/AAABjWm2vVM/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/f9238daa-bae6-435c-b1e7-8a6d261c95f2/AAABjWm2vVM/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/f9238daa-bae6-435c-b1e7-8a6d261c95f2/AAABjWm2vVM/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/f9238daa-bae6-435c-b1e7-8a6d261c95f2/AAABjWm2vVM/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/f9238daa-bae6-435c-b1e7-8a6d261c95f2/AAABjWm2vVM/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/f9238daa-bae6-435c-b1e7-8a6d261c95f2/AAABjWm2vVM/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "USA"
+        },
+        {
+          "tag": "Taylor Swift"
+        },
+        {
+          "tag": "Republikaner"
+        },
+        {
+          "tag": "US-Vorwahlen"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/taylor-swift-republikaner-100.json?view=hasChanged&lastKnown=928AC2EACD49C766E18C79BA9F9BC1D7",
+      "tracking": [
+        {
+          "sid": "app.ausland.amerika.taylor-swift-republikaner-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240202T1306",
+          "otp": "meldung",
+          "cid": "taylor-swift-republikaner-100",
+          "pti": "US-Wahlkampf_Verschwoerungserzaehlung_um_Popstar_Taylor_Swift",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Verschwörungserzählung um Taylor Swift",
+      "firstSentence": "Eine Verschwörungserzählung um Musikerin Taylor Swift bewegt die US-Republikaner.",
+      "details": "https://www.tagesschau.de/api2u/ausland/amerika/taylor-swift-republikaner-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/amerika/taylor-swift-republikaner-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/amerika/taylor-swift-republikaner-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "nairobi-gasexplosion-tote-100",
+      "externalId": "a5f3b33a-a719-426b-a6e9-5476b6b4497f",
+      "title": "Mindestens 200 Verletzte nach Großbrand in Nairobi",
+      "date": "2024-02-02T08:44:55.688+01:00",
+      "teaserImage": {
+        "alttext": "Löscharbeiten in Nairobi",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/a95a283f-01bf-42a1-9ebd-10b2f88ab393/AAABjWioVC8/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/a95a283f-01bf-42a1-9ebd-10b2f88ab393/AAABjWioVC8/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/a95a283f-01bf-42a1-9ebd-10b2f88ab393/AAABjWioVC8/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/a95a283f-01bf-42a1-9ebd-10b2f88ab393/AAABjWioVC8/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/a95a283f-01bf-42a1-9ebd-10b2f88ab393/AAABjWioVC8/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/a95a283f-01bf-42a1-9ebd-10b2f88ab393/AAABjWioVC8/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/a95a283f-01bf-42a1-9ebd-10b2f88ab393/AAABjWioVC8/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/a95a283f-01bf-42a1-9ebd-10b2f88ab393/AAABjWioVC8/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/a95a283f-01bf-42a1-9ebd-10b2f88ab393/AAABjWioVC8/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/a95a283f-01bf-42a1-9ebd-10b2f88ab393/AAABjWioVC8/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/a95a283f-01bf-42a1-9ebd-10b2f88ab393/AAABjWioVC8/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/a95a283f-01bf-42a1-9ebd-10b2f88ab393/AAABjWioVC8/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Nairobi"
+        },
+        {
+          "tag": "Kenia"
+        },
+        {
+          "tag": "Gasexplosion"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/nairobi-gasexplosion-tote-100.json?view=hasChanged&lastKnown=83E9CE15AF5449C2464F8713A6E83A2F",
+      "tracking": [
+        {
+          "sid": "app.ausland.afrika.nairobi-gasexplosion-tote-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240202T0811",
+          "otp": "meldung",
+          "cid": "nairobi-gasexplosion-tote-100",
+          "pti": "Gasexplosion_in_Nairobi_Mindestens_200_Verletzte_nach_Grossbrand",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Gasexplosion in Kenia",
+      "firstSentence": "Ursache ist nach Regierungsangaben die Explosion eines mit Gas beladene Lasters gewesen.",
+      "details": "https://www.tagesschau.de/api2u/ausland/afrika/nairobi-gasexplosion-tote-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/afrika/nairobi-gasexplosion-tote-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/afrika/nairobi-gasexplosion-tote-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "cia-wikileaks-haftstrafe-100",
+      "externalId": "07684522-955b-4467-ae1a-dfce4e668e3b",
+      "title": "Ehemaliger CIA-Programmierer muss 40 Jahre hinter Gitter",
+      "date": "2024-02-02T07:59:01.021+01:00",
+      "teaserImage": {
+        "alttext": "In einer Skizze aus dem Gerichtssaal sitzt der damals Angeklagte am Tisch der Verteidigung, flankiert von seinen Anwälten.",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/7eed992a-8983-4f6e-a55b-17cf6cc2ad2e/AAABjWidEdc/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/7eed992a-8983-4f6e-a55b-17cf6cc2ad2e/AAABjWidEdc/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/7eed992a-8983-4f6e-a55b-17cf6cc2ad2e/AAABjWidEdc/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/7eed992a-8983-4f6e-a55b-17cf6cc2ad2e/AAABjWidEdc/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/7eed992a-8983-4f6e-a55b-17cf6cc2ad2e/AAABjWidEdc/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/7eed992a-8983-4f6e-a55b-17cf6cc2ad2e/AAABjWidEdc/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/7eed992a-8983-4f6e-a55b-17cf6cc2ad2e/AAABjWidEdc/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/7eed992a-8983-4f6e-a55b-17cf6cc2ad2e/AAABjWidEdc/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/7eed992a-8983-4f6e-a55b-17cf6cc2ad2e/AAABjWidEdc/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/7eed992a-8983-4f6e-a55b-17cf6cc2ad2e/AAABjWidEdc/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/7eed992a-8983-4f6e-a55b-17cf6cc2ad2e/AAABjWidEdc/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/7eed992a-8983-4f6e-a55b-17cf6cc2ad2e/AAABjWidEdc/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "USA"
+        },
+        {
+          "tag": "WikiLeaks"
+        },
+        {
+          "tag": "CIA"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/cia-wikileaks-haftstrafe-100.json?view=hasChanged&lastKnown=C96F99A2659EB39C29D61339B75FBD9D",
+      "tracking": [
+        {
+          "sid": "app.ausland.amerika.cia-wikileaks-haftstrafe-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240202T0759",
+          "otp": "meldung",
+          "cid": "cia-wikileaks-haftstrafe-100",
+          "pti": "Wegen_Spionage_40_Jahre_Haft_fuer_ehemaligen_CIA-Programmierer",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Wegen Spionage",
+      "firstSentence": "Er hatte Tausende Seiten vertraulicher US-Dokumente an die Plattform WikiLeaks weitergegeben.",
+      "details": "https://www.tagesschau.de/api2u/ausland/amerika/cia-wikileaks-haftstrafe-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/amerika/cia-wikileaks-haftstrafe-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/amerika/cia-wikileaks-haftstrafe-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    },
+    {
+      "sophoraId": "argentinien-krawalle-gesetzpaket-100",
+      "externalId": "1b60a89a-23b1-4259-a0df-caf93ae9695f",
+      "title": "Krawalle während Debatte über Gesetzespaket",
+      "date": "2024-02-02T05:05:46.263+01:00",
+      "teaserImage": {
+        "alttext": "Polizei und Regierungsgegner liefern sich ein Handgemenge vor dem Kongress, wo die Gesetzgeber über einen vom argentinischen Präsidenten Milei eingebrachten Gesetzentwurf debattieren.",
+        "imageVariants": {
+          "1x1-144": "https://images.tagesschau.de/image/c46e431c-74c7-41fd-911d-b877d2ad8ba2/AAABjWf5jQ4/AAABibBxx9M/1x1-144.jpg",
+          "1x1-256": "https://images.tagesschau.de/image/c46e431c-74c7-41fd-911d-b877d2ad8ba2/AAABjWf5jQ4/AAABibBxyuw/1x1-256.jpg",
+          "1x1-432": "https://images.tagesschau.de/image/c46e431c-74c7-41fd-911d-b877d2ad8ba2/AAABjWf5jQ4/AAABibBx0AU/1x1-432.jpg",
+          "1x1-640": "https://images.tagesschau.de/image/c46e431c-74c7-41fd-911d-b877d2ad8ba2/AAABjWf5jQ4/AAABibBx0zc/1x1-640.jpg",
+          "1x1-840": "https://images.tagesschau.de/image/c46e431c-74c7-41fd-911d-b877d2ad8ba2/AAABjWf5jQ4/AAABibBx1ms/1x1-840.jpg",
+          "16x9-256": "https://images.tagesschau.de/image/c46e431c-74c7-41fd-911d-b877d2ad8ba2/AAABjWf5jQ4/AAABibBxsX4/16x9-256.jpg",
+          "16x9-384": "https://images.tagesschau.de/image/c46e431c-74c7-41fd-911d-b877d2ad8ba2/AAABjWf5jQ4/AAABibBxtLY/16x9-384.jpg",
+          "16x9-512": "https://images.tagesschau.de/image/c46e431c-74c7-41fd-911d-b877d2ad8ba2/AAABjWf5jQ4/AAABibBxt-Y/16x9-512.jpg",
+          "16x9-640": "https://images.tagesschau.de/image/c46e431c-74c7-41fd-911d-b877d2ad8ba2/AAABjWf5jQ4/AAABibBxuyw/16x9-640.jpg",
+          "16x9-960": "https://images.tagesschau.de/image/c46e431c-74c7-41fd-911d-b877d2ad8ba2/AAABjWf5jQ4/AAABibBxwXw/16x9-960.jpg",
+          "16x9-1280": "https://images.tagesschau.de/image/c46e431c-74c7-41fd-911d-b877d2ad8ba2/AAABjWf5jQ4/AAABibBxqrQ/16x9-1280.jpg",
+          "16x9-1920": "https://images.tagesschau.de/image/c46e431c-74c7-41fd-911d-b877d2ad8ba2/AAABjWf5jQ4/AAABibBxrfI/16x9-1920.jpg"
+        },
+        "type": "image"
+      },
+      "tags": [
+        {
+          "tag": "Argentinien"
+        },
+        {
+          "tag": "Krawalle"
+        }
+      ],
+      "updateCheckUrl": "https://www.tagesschau.de/api2u/argentinien-krawalle-gesetzpaket-100.json?view=hasChanged&lastKnown=7E3BECC6AD054006C9DD4513B8921FB4",
+      "tracking": [
+        {
+          "sid": "app.ausland.amerika.argentinien-krawalle-gesetzpaket-100",
+          "src": "ard-aktuell",
+          "ctp": "nicht-definiert",
+          "pdt": "20240202T0505",
+          "otp": "meldung",
+          "cid": "argentinien-krawalle-gesetzpaket-100",
+          "pti": "Krawalle_waehrend_Debatte_ueber_Gesetzespaket_in_Argentinien",
+          "bcr": "ja",
+          "type": "generic",
+          "av_full_show": false
+        }
+      ],
+      "topline": "Argentinien",
+      "firstSentence": "Aktivisten lieferten sich in Buenos Aires mit Sicherheitskräften eine Straßenschlacht.",
+      "details": "https://www.tagesschau.de/api2u/ausland/amerika/argentinien-krawalle-gesetzpaket-100.json",
+      "detailsweb": "https://www.tagesschau.de/ausland/amerika/argentinien-krawalle-gesetzpaket-100.html",
+      "shareURL": "https://www.tagesschau.de/ausland/amerika/argentinien-krawalle-gesetzpaket-100.html",
+      "geotags": [],
+      "regionId": 0,
+      "regionIds": [],
+      "ressort": "ausland",
+      "type": "story",
+      "breakingNews": false
+    }
+  ],
+  "regional": [],
+  "newStoriesCountLink": "",
+  "type": "news page",
+  "nextPage": "https://www.tagesschau.de/api2u/news?date=240201&ressort=ausland"
+}
