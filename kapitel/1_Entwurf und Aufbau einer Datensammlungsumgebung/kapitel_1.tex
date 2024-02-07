@@ -2,7 +2,7 @@
 \section{Entwurf und Aufbau der Datensammlungsumgebung}
 TBD
 
-\subsection{Integration diverser Datenströme in einem einheitlichen Datenkorpus}
+\subsection{Identifizierung diverser Datenströme zur Integration in einem einheitlichen Datenkorpus}
 Die erste Datenquelle für die Datensammlungsumgebung ist die Anwendungsschnittstelle der Tagesschau. Diese ist eine Nachrichtensendung der Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD) . Über diese Schnittstelle ist es möglich, Beiträge der Website www.tagesschau.de im JavaScript Object Notation (JSON) Format abzufragen. 
 Die Schnittstelle ist mit einer OpenAPI Specification dokumentiert, über welche alle Informationen bezogen werden können. Der Zugriff auf diese Schnittstelle ist auf 60 Aufrufe pro Stunde limitiert. Darüber hinaus ist lediglich die nicht-kommerzielle Nutzung gestattet. Zudem dürfen gesammelte Inhalte, mit Ausnahme der unter der Creative Common (CC) Lizenz stehenden Inhalte, nicht weiter veröffentlicht werden. \footcite [Vgl.][]{Fischer.2024}
 
@@ -16,7 +16,6 @@ Die Schnittstelle gruppiert sich in 4 Themensegmente, welche über eigene Endpun
 Jeder Endpunkt ist gemäß dem Paradigma Representational State Transfer (REST) konstruiert und wird entsprechend über das Hypertext Transfer Protocol (HTTP) abgefragt. \footcite [Vgl.][]{Fischer.2024}
 
 Für die erste Umsetzung der Datensammlungsumgebung ist es ausreichend, den News Endpunkt zu konsumieren. Dieser gibt eine Liste von News Objekten zurück, wie im \ref{Anhang} beschrieben. Diese enthält folgende Informationen:
-
 
 \begin{table}   
     \centering
@@ -46,6 +45,7 @@ Für die erste Umsetzung der Datensammlungsumgebung ist es ausreichend, den News
         breakingNews & Boolescher Wert, ob der Artikel als Eilmeldung veröffentlicht wurde \\ \hline
     \end{tabular}
 \end{table}
+
 \begin{table}
 \centering
 \caption{Tracking-Objekte in der Tagesschau API}
@@ -63,7 +63,6 @@ Für die erste Umsetzung der Datensammlungsumgebung ist es ausreichend, den News
         type & Typ des Tracking Objektes, z.B. \textit{generic} \\ \hline
     \end{tabular}
 \end{table}
-
 Die erste Ebene der Datenstruktur enthält primär Metadaten zu einer Nachricht. Um den, für die Sammlung relevanten, Inhalt zu erhalten, sind die Referenzen auf die Details sowie die Kommentare aufzulösen. 
 Dazu wird jeweils die Adresse aus dem jeweiligen Attribut aufgerufen. 
 
@@ -100,9 +99,12 @@ Die Kommentare werden in Seiten strukturiert und entsprechend nur teilweise zur�
     \caption{Abfragesequenz Datensammlung}
     \label{fig:Abfragesequenz Datensammlung}
 \end{figure}
-Der Ablauf der Datensammlung muss zwangsläufig mit dem initialen Abfragen der Tagesschau API starten, wie in der OpenAPI Spezifikation beschrieben. Anschließend können die Abfragen für den Artikeltext, sowie den Kommentaren stattfinden (siehe Abbildung \ref{fig:Abfragesequenz Datensammlung}). Um die Limitierung der Schnittstelle nicht zu überschreiten ist es notwendig, die zu machenden Aufrufe bestimmen zu können. Die Anzahl der benötigten Aufrufe lässt sich, auf Basis der geplanten Kommunikationsstruktur mit folgender Formel ausdrücken:
+Der Ablauf der Datensammlung muss zwangsläufig mit dem initialen Abfragen der Tagesschau API starten, wie in der OpenAPI Spezifikation beschrieben. Dabei kann sowohl die Region wie auch das Ressort der gewünschten Artikel angegeben werden, um initial zu filtern. Anschließend können die Abfragen für den Artikelinhalt, sowie den Kommentaren stattfinden (siehe Abbildung \ref{fig:Abfragesequenz Datensammlung}). 
+Um die Limitierung der Schnittstelle nicht zu überschreiten ist es notwendig, die zu machenden Aufrufe bestimmen zu können. Die Anzahl der benötigten Aufrufe lässt sich, auf Basis der geplanten Kommunikationsstruktur mit folgender Formel ausdrücken:
 
 \(TotalRequests=1+(AmountArticles×2)\)
+
+Dabei ist es möglich, die Abfragen sowohl synchron, wie auch asynchron auszuführen, um die Prozessdauer als Konsument zu reduzieren.
 
 \newpage
 \begin{figure}
@@ -113,7 +115,10 @@ Der Ablauf der Datensammlung muss zwangsläufig mit dem initialen Abfragen der T
     Quelle: \fullcite{DpaApiDocumentation.APIs.2024}
 \end{figure}
 Als zweite Datenquelle wird die Deutsche Presse Agentur (dpa) angebunden. 
-Diese stellt ebenfalls eine API zum konsumieren der Nachrichten bereit, jedoch ist das Angebot wesentlich weitreichender. Grundsätzlich werden drei Formen von Schnittstellen bereitgestellt:
+Diese ist die größte Nachrichtenagentur Deutschlands und möchte Inhalte möglichst neutral und unparteiisch bereitstellen.\footcite[Vgl.][]{Dpa.about.2024}
+
+Zum maschinellen konsumieren der Nachrichten stellt die dpa mehrere APIs bereit.
+Grundsätzlich werden drei Formen von Schnittstellen bereitgestellt:
 
 \textbf{s3push-API}
 Stellt die Daten im JSON Format über eine event-basierte Kommunikation bereit. Die Implementierung sieht eine direkte Anbindung eines S3 Buckets auf der Seite des Konsumenten vor und ermöglicht so das transportieren von neuen oder aktualisierten Topicles. Durch diesen Ansatz ist die Kommunikation zu der Schnittstelle wenig komplex und effizient, da als Konsument keine Logik zum aktualisieren der Bestandsdaten notwendig ist.\footcite[Vgl.][]{DpaApiDocumentation.APIs.2024}
@@ -123,13 +128,102 @@ Stellt die Daten ebenfalls im JSON Format bereit, jedoch ausgegeben in einer clo
 
 \textbf{jsonfeed-API}
 Stellt die Daten ebenfalls im JSON Format technisch dar, welches strukturell jedoch Atom-XML bzw. RSS Feeds ähnelt. Beim Anfragen der Daten wird ein Vollbezug der verfügbaren Daten gestartet, welcher auch bereits abgefragte Nachrichten enthält. Entsprechend muss auf Konsumentenseite eine entsprechende Geschäftslogik implementiert werden. \footcite[Vgl.][]{DpaApiDocumentation.APIs.2024}
+\newpage
 
-Für den Aufbau einer ersten Iteration der Datensammlungsumgebung ist die Anbindung an die \textit{jsonfeed-API} sinnvoll, da die Anbindung alleinstehend zunächst wenig Komplexität aufweist. 
+Die Antwort der verschiedenen APIs ist grundsätzlich in einem Container Element strukturiert, welches Topicles genannt wird. Dieses organisiert die verschiedenen Nachrichteninhalte der jeweiligen Gruppen der dpa. Dadurch ergibt sich der Vorteil, verschiedene Medien wie z.B. Texte, Bilder, oder Videos in einer einheitlichen Struktur abzubilden. Zudem ist das Format darauf optimiert, maschinell verarbeitet zu werden.\footcite[Vgl.][]{DpaApiDocumentation.Format.2024}
 
+Die Metadaten eines Topicles setzen sich aus folgenden Attributen zusammen:
+\begin{table}
+    \centering
+    \caption{Essentielle Metadaten im Topicles}
+    \label{tab:Essentielle Metadaten im Topicles}
+    \begin{tabular}{|c|p{11cm}|} \hline         
+        \textbf{Tracking-Attribut} & \textbf{Beschreibung} \\ \hline 
+            format                  & Das Format des Entries nach Semantic Versioning.           \\ \hline
+            entry\_id               & Die technische ID des Eintrages. Ein opaker Hash.          \\ \hline
+            updated                 & Der Zeitstempel der Aktualisierung des Entries in UTC.     \\ \hline
+            urn                     & Die URN des Hauptobjektes des Topicles.                    \\ \hline
+            version\_created        & Zeitstempel der letzten Version, mit Zeitzone.             \\ \hline
+            version                 & Die Version des Hauptobjektes. Ein Integer.                \\ \hline
+            type                    & Der Typ des Topicles, aktuell immer composite.             \\ \hline
+            pubstatus               & Status der Veröffentlichung, z.B. "usable", "withheld".    \\ \hline
+            signal                  & Hinweise zum Anlass der Veröffentlichung.                  \\ \hline
+            embargoed               & Zeitstempel einer Sperrfrist, mit Zeitzone.                \\ \hline
+            language                & Die Sprache des Topicles.                                  \\ \hline
+            urgency                 & Die Dringlichkeit der Meldung, Integer zwischen 1 und 9.   \\ \hline
+    \end{tabular}
 
+    Quelle: Vgl. \fullcite{DpaApiDocumentation.Format.2024}
+\end{table}
+
+Darüber hinaus weisen die individuellen Datentypen unterschiedliche Attribute auf. Für die erste Iteration der Datensammlungsumgebung sind zunächst die Nachrichtentexte von Relevanz. 
+Die Nachrichtentexte der Topicles weisen folgende spezielle Attribute auf:
+
+\begin{table}
+    \centering 
+    \caption{Nachrichtentext im Topicles}
+    \label{tab:Nachrichtentext im Topicles}
+    \begin{tabular}{|c|p{11cm}|} \hline    
+    \textbf{Tracking-Attribut} & \textbf{Beschreibung} \\ \hline 
+        kicker                  & Die Dachzeile des Artikels.                                 \\ \hline
+        headline                & Die Hauptüberschrift des Artikels.                         \\ \hline
+        subhead                 & Die Unterzeile des Artikels.                              \\ \hline
+        teaser                  & Der Teaser des Artikels.                                  \\ \hline
+        byline                  & Die Autorenzeile des Artikels.                            \\ \hline
+        dateline                & Die Ortszeile des Artikels.                               \\ \hline
+        article\_html           & Der eigentliche Artikeltext als HTML <section>.            \\ \hline
+        infobox\_html           & Die zum Artikel gehörende Infobox als HTML <section>.      \\ \hline
+        linkbox\_html           & Externe Links als HTML <section>.                          \\ \hline
+        creditline              & Die Agenturzeile / Urheberzeile des Artikels.             \\ \hline
+        copyrightnotice         & Der Copyright-Hinweis für den Artikel.                    \\ \hline
+        usageterms              & Die urheberrechtlichen Nutzungsbedingungen.                \\ \hline
+        autopublishnotice       & Der Urheberrechtshinweis für automatisierte Publikationen. \\ \hline
+        ednotes                 & Redaktionelle Hinweise zum Artikel. Liste von Objekten.    \\ \hline
+        descriptions            & Liste von Beschreibungen. Verschiedene Texte im Key description. \\ \hline
+    \end{tabular}
+
+    Quelle:  Vgl. \fullcite{DpaApiDocumentation.Format.2024}
+\end{table}
+\newpage
+\subsection{Bildung eines Datenkorpus für eine Sentiment Analyse}
+Die Struktur des, zur Analyse benötigten, Datenkorpus bildet sich aus den Schlüsselelementen der beiden Dokumentenkorpora. Dabei sind Attribute relevant, welche in der Schnittmenge der beiden Strukturen liegen, sind jedoch nicht darauf beschränkt. 
+\begin{table}
+    \centering
+\caption{Struktur Datenkorpus für Nachrichtenartikel}
+\label{tab:Datenkorpus}
+    \begin{tabular}{cccc}
+         Name Datenkorpus&  Attribut Tagesschau&  Attribut dpa& Beschreibung \\
+         id&  sophora_id&  entry_id& Eindeutiger Identifier für einen Artikel \\
+         title&  title&  headline& Überschrift des Artikels \\
+         date&  date&  version_created& Zeitstempel Erstellung des Artikels \\
+         teaser&  firstSentence&  teaser& Kurze Einführung in den Artikel \\
+         language&  (Annahme: deutsch)&  language& Sprache des Artikels \\
+         usageterms&  (Annahme: Spezifische Nutzungsbedingungen)&  usageterms& Nutzungsbedingungen der Inhalte \\
+         text_content&  details&  article_html&  Inhalt des Artikels\\
+ comments& (Konstruiert aus Abfrage)& (nicht gegeben)&Besteht aus: 
+Username
+Datum und Uhrzeit des Kommentars
+Kommentar Text\\
+    \end{tabular}
+    
+    
+\end{table}
+Neben den relevanten Attributen aus der Schnittmenge, wurde auch \textit{language}, \textit{usageterms} sowie \textit{comments} eingeführt. Im aktuellen Szenarion können die nicht explizit gepflegten Werte aus der Tagesschau durch den Kontext heraus gefüllt werden, da sowohl die Sprache, als auch die Nutzungsbedienungen fest definiert werden können. Die Kommentare sind bei der dpa gar nicht vorhanden, jedoch bei der Tagesschau auch nicht pauschal verfügbar. Das Einführen des Attributs in den Korpus ermöglicht jedoch das Abbilden solcher Inhalte, insbesondere im Hinblick auf die Erweiterbarkeit.
+
+Die Struktur des Datenkorpus ermöglicht auch weitere, bisher unbekannte, Datenquellen einzubinden. Seine Struktur ist allgemeingültig für Nachrichtenartikel, da er auf die essenziellen Informationen reduziert ist. 
+Dadurch wird die Erweiterbarkeit weiter verbessert.
 
 \newpage
 \subsection{Architektur und Design der Datensammlungsumgebung}
+Zur Erarbeitung der Architektur ist es notwendig, die gegeben Rahmenbedingungen (engl. constraints) zu definieren und daraus nicht- funktionale Anforderungen zu definieren. Daraus ist herauszustellen, welche Qualitätsmerkmale das System verfolgt. 
+
+Für die Datensammlungsumgebung ist die Datenqualität das wichtigste Merkmal. Es entscheidet darüber, wie erfolgreich die nach-gelagerten Analysen ausfallen werden, welche die Begründung für diese Umgebung darstellen. Datenqualität umfasst unter anderem die Aspkete Genauigkeit, Gültigkeit, Vollständigkeit und Verfügbarkeit.
+Durch einen erhöhten Anspruch an die Datenqualität wird das Datenvolumen reduziert, da mehr Informationen gespeichert werden. Zum Evaluieren der Datenqualität kann initial eine explorative Analyse auf Basis der extrahierten Daten vorgenommen werden. Im produktiven Betrieb der Umgebung kann die Qualität der Analyseergebnisse betrachtet werden. \footcite[Vgl.][]{Kilkenny.Data.2018}
+
+Als weiteren Aspekt der Umgebung steht die Erweiterbarkeit bzw. die Flexibilität im Fokus. Der fachliche Anspruch ist es, verschiedene Datenströme zu integrieren. Durch das Einbinden verschiedener Datenquellen können mehr Daten gesammelt werden. Im Kontext der Berichterstattung werden dadurch auch verschiedene Perspektiven auf die selben Themen abgebildet, was weitere Analysemöglichkeiten eröffnet. Das extrahieren der Texte aus den Nachrichtenartikeln muss so konstruiert sein, dass  bei Änderungen am Format der Texte, die Schnittstelle entsprechend funktional bleibt bzw. möglichst schnell angepasst werden kann. Wie flexibel die Architektur im Bezug auf sich ändernde Anforderungen reagiert, lässt sich ansatzweise über die benötigte Zeit zur Bereitstellung einer Anpassung (engl. Time to Market) bestimmen, bzw. bei weitreichenderen Bedarfen über eine graphenbasierte Representation der Anwendung.\footcite[Vgl.][]{Broniatowski.Measuring.2016}{}{}
+
+Für die erste Iteration der Anwendung ist die Wartbarkeit, sowie die Benutzerfreundlichkeit zu vernachlässigen, da diese sich konkurrierend zu der Idee eines Prototypen verhalten. Dadurch wird eine schnelle Anfangsentwicklung ermöglicht, welche e
+
 
 Um das Limit der Tagesschau API von 40 Anfragen pro Stunde nicht zu überschreiten, wurde folgender Batch Job konzipiert. 
 
