@@ -14,10 +14,11 @@ Die Schnittstelle gruppiert sich in 4 Themensegmente, welche über eigene Endpun
     \item Search - Allgemeine Suche über alle Inhalte der Plattform
 \end{itemize}
 Jeder Endpunkt ist gemäß dem Paradigma Representational State Transfer (REST) konstruiert und wird entsprechend über das Hypertext Transfer Protocol (HTTP) abgefragt. \footcite [Vgl.][]{Fischer.2024}
+\newpage
 
 Für die erste Umsetzung der Datensammlungsumgebung ist es ausreichend, den News Endpunkt zu konsumieren. Dieser gibt eine Liste von News Objekten zurück, wie im \ref{Anhang} beschrieben. Diese enthält folgende Informationen:
 
-\begin{table}   
+\begin{table}[bp!]   
     \centering
     \caption{Attribute Tageschau API Response}
     \label{tab:Attribute Tageschau API Response}
@@ -45,6 +46,8 @@ Für die erste Umsetzung der Datensammlungsumgebung ist es ausreichend, den News
         breakingNews & Boolescher Wert, ob der Artikel als Eilmeldung veröffentlicht wurde \\ \hline
     \end{tabular}
 \end{table}
+\newpage
+Die Informationen im Tracking Attribut werden für das Erfassen und Analysieren des Nutzerverhaltens verwendet und können entsprechend für eine Analyse sinnvoll sein. 
 
 \begin{table}
 \centering
@@ -130,7 +133,9 @@ Stellt die Daten ebenfalls im JSON Format bereit, jedoch ausgegeben in einer clo
 Stellt die Daten ebenfalls im JSON Format technisch dar, welches strukturell jedoch Atom-XML bzw. RSS Feeds ähnelt. Beim Anfragen der Daten wird ein Vollbezug der verfügbaren Daten gestartet, welcher auch bereits abgefragte Nachrichten enthält. Entsprechend muss auf Konsumentenseite eine entsprechende Geschäftslogik implementiert werden. \footcite[Vgl.][]{DpaApiDocumentation.APIs.2024}
 \newpage
 
-Die Antwort der verschiedenen APIs ist grundsätzlich in einem Container Element strukturiert, welches Topicles genannt wird. Dieses organisiert die verschiedenen Nachrichteninhalte der jeweiligen Gruppen der dpa. Dadurch ergibt sich der Vorteil, verschiedene Medien wie z.B. Texte, Bilder, oder Videos in einer einheitlichen Struktur abzubilden. Zudem ist das Format darauf optimiert, maschinell verarbeitet zu werden.\footcite[Vgl.][]{DpaApiDocumentation.Format.2024}
+Zu den verschiedenen Schnittstellen gibt es, bereitgestellt durch die dpa selbst, verschiedene Beispiele für Implementierungen zwecks der Anbindung an die Schnittstelle. Diese werden über Github bereitgestellt und vereinfachen, je nach Kompatibilität zu den eingesetzten Technologien, die Entwicklung des Prototypen. \footcite[Vgl.][]{dpa_newslab.github.2024}{}{}
+
+Jede Antwort der verschiedenen Schnittstellen gliedert sich grundsätzlich in einem Container Element, welches Topicles genannt wird. Dieses organisiert die verschiedenen Nachrichteninhalte der jeweiligen Gruppen der dpa. Dadurch ergibt sich der Vorteil, verschiedene Medien wie z.B. Texte, Bilder, oder Videos in einer einheitlichen Struktur abzubilden. Zudem ist das Format darauf optimiert, maschinell verarbeitet zu werden.\footcite[Vgl.][]{DpaApiDocumentation.Format.2024}
 
 Die Metadaten eines Topicles setzen sich aus folgenden Attributen zusammen:
 \begin{table}
@@ -184,6 +189,7 @@ Die Nachrichtentexte der Topicles weisen folgende spezielle Attribute auf:
 
     Quelle:  Vgl. \fullcite{DpaApiDocumentation.Format.2024}
 \end{table}
+
 \newpage
 \subsection{Bildung eines Datenkorpus für eine Sentiment Analyse}
 Die Struktur des, zur Analyse benötigten, Datenkorpus bildet sich aus den Schlüsselelementen der beiden Dokumentenkorpora. Dabei sind Attribute relevant, welche in der Schnittmenge der beiden Strukturen liegen, sind jedoch nicht darauf beschränkt. 
@@ -191,7 +197,7 @@ Die Struktur des, zur Analyse benötigten, Datenkorpus bildet sich aus den Schl�
     \centering
 \caption{Struktur Datenkorpus für Nachrichtenartikel}
 \label{tab:Datenkorpus}
-    \begin{tabular}{cccc}
+    \begin{tabular}{|c|c|c|c|}
          Name Datenkorpus&  Attribut Tagesschau&  Attribut dpa& Beschreibung \\
          id&  sophora_id&  entry_id& Eindeutiger Identifier für einen Artikel \\
          title&  title&  headline& Überschrift des Artikels \\
@@ -200,10 +206,10 @@ Die Struktur des, zur Analyse benötigten, Datenkorpus bildet sich aus den Schl�
          language&  (Annahme: deutsch)&  language& Sprache des Artikels \\
          usageterms&  (Annahme: Spezifische Nutzungsbedingungen)&  usageterms& Nutzungsbedingungen der Inhalte \\
          text_content&  details&  article_html&  Inhalt des Artikels\\
- comments& (Konstruiert aus Abfrage)& (nicht gegeben)&Besteht aus: 
-Username
-Datum und Uhrzeit des Kommentars
-Kommentar Text\\
+        comments& (Konstruiert aus Abfrage)& (nicht gegeben)&Besteht aus: 
+        Username
+        Datum und Uhrzeit des Kommentars
+        Kommentar Text\\
     \end{tabular}
     
     
@@ -217,19 +223,53 @@ Dadurch wird die Erweiterbarkeit weiter verbessert.
 \subsection{Architektur und Design der Datensammlungsumgebung}
 Zur Erarbeitung der Architektur ist es notwendig, die gegeben Rahmenbedingungen (engl. constraints) zu definieren und daraus nicht- funktionale Anforderungen zu definieren. Daraus ist herauszustellen, welche Qualitätsmerkmale das System verfolgt. 
 
+Als  Randbedingungen für die Datensammlungsumgebungen gelten alle Einschränkungen der genutzten Schnittstellen. Diese weisen unterschiedliche Nutzungsbedienungen auf, welche in der Architektur berücksichtigt und eingehalten werden müssen. Darüber hinaus ist zu beachten, wie die Daten vorgehalten werden um ebenfalls , im Bezug auf Privatsphäre, konform zu arbeiten. 
+
+Das detaillierte Dokumentieren der Architektur verbessert die Transparenz über den Datenbezug, sowie der Datenverarbeitung. Dieser Aspekt ist essentiell wichtig, um den Anspruch der Nachvollziehbarkeit gerecht zu werden, da sich daraus auch ggf. vorliegende Limitierungen in der Erhebung bzw. Analyse nachvollziehen lassen.\footcite[Vgl.][]{Sayogo.Challenges.2015}{}{}
+
+[Erweitern um ethische Aspekte ggf.]
+
 Für die Datensammlungsumgebung ist die Datenqualität das wichtigste Merkmal. Es entscheidet darüber, wie erfolgreich die nach-gelagerten Analysen ausfallen werden, welche die Begründung für diese Umgebung darstellen. Datenqualität umfasst unter anderem die Aspkete Genauigkeit, Gültigkeit, Vollständigkeit und Verfügbarkeit.
 Durch einen erhöhten Anspruch an die Datenqualität wird das Datenvolumen reduziert, da mehr Informationen gespeichert werden. Zum Evaluieren der Datenqualität kann initial eine explorative Analyse auf Basis der extrahierten Daten vorgenommen werden. Im produktiven Betrieb der Umgebung kann die Qualität der Analyseergebnisse betrachtet werden. \footcite[Vgl.][]{Kilkenny.Data.2018}
 
 Als weiteren Aspekt der Umgebung steht die Erweiterbarkeit bzw. die Flexibilität im Fokus. Der fachliche Anspruch ist es, verschiedene Datenströme zu integrieren. Durch das Einbinden verschiedener Datenquellen können mehr Daten gesammelt werden. Im Kontext der Berichterstattung werden dadurch auch verschiedene Perspektiven auf die selben Themen abgebildet, was weitere Analysemöglichkeiten eröffnet. Das extrahieren der Texte aus den Nachrichtenartikeln muss so konstruiert sein, dass  bei Änderungen am Format der Texte, die Schnittstelle entsprechend funktional bleibt bzw. möglichst schnell angepasst werden kann. Wie flexibel die Architektur im Bezug auf sich ändernde Anforderungen reagiert, lässt sich ansatzweise über die benötigte Zeit zur Bereitstellung einer Anpassung (engl. Time to Market) bestimmen, bzw. bei weitreichenderen Bedarfen über eine graphenbasierte Representation der Anwendung.\footcite[Vgl.][]{Broniatowski.Measuring.2016}{}{}
 
-Für die erste Iteration der Anwendung ist die Wartbarkeit, sowie die Benutzerfreundlichkeit zu vernachlässigen, da diese sich konkurrierend zu der Idee eines Prototypen verhalten. Dadurch wird eine schnelle Anfangsentwicklung ermöglicht, welche e
+Für die erste Iteration der Anwendung ist die Wartbarkeit, sowie die Benutzerfreundlichkeit zu vernachlässigen, da diese sich konkurrierend zu der Idee eines Prototypen verhalten. Dadurch wird eine schnelle Entwicklung zu Beginn ermöglicht, wodurch der erste vollständige Prozess der Datenverarbeitung frühzeitig durchlaufen werden kann. Daraus resultieren frühzeitig Erkenntnisse, welche für die Qualität der Datensammlungsumgebung essentiell sind.\footcite[Vgl.][]{Strang.Mining.2023}{}{}
 
+[Inhalt zur angestrebten Analyse]
 
-Um das Limit der Tagesschau API von 40 Anfragen pro Stunde nicht zu überschreiten, wurde folgender Batch Job konzipiert. 
+\textbf{Komponenten der Systemarchitektur}
+Der erster Prozess-schritt der Datensammlungsumgebung ist das Abfragen der verschiedenen Nachrichten-Quellen. Die Komponente muss dazu in der Lage sein, entsprechende HTTP Aufrufe an die die Schnittstellen der Nachrichtenquellen zu richten. Dabei ist die Restriktion der Aufrufe bei der Tagesschau zu beachten. Im Bereich von öffentlichen Schnittstellen sei es nach Fresno-Aranda zu erwarten, dass diese Einschränkung bei weiteren Schnittstellen ebenfalls auftreten werden.\footcite[Vgl.][]{Fresno-Aranda.Automated.2022}{}{}
 
-\begin{figure}
-    \centering
-    \includegraphics[width=1\linewidth]{abbildungen/image.png}
-    \caption{Sequenzdiagramm Abfrage von Tagesschau Daten}
-    \label{fig:Sequenzdiagramm Abfrage von Tagesschau Daten}
-\end{figure}
+Diese Aufgabe wird durch einen  bzw. mehrere  Microservices erfüllt, welche es ermöglichen, die jeweilgen Schnittstellen abzufragen.  So kann, je nach Bedarf, die Logik zur Abfrage der Nachrichtenartikel auf die Services aufgeteilt werden, sodass je angebundener Quelle ein Microservice das Abfragen sowie das temporäre Speichern der Dokumentenkorpora vornehmen kann. 
+
+Die verschiedenen Services können unabhängig voneinander entwickelt werden, wodurch jeweils die passende Technologie, wie z.B. Programmiersprachen, Frameworks etc. , verwendet werden können. 
+
+Zudem sind Diese getrennt skalierbar, um kosteneffizent die unterschiedlichen Bedarfe an die Ressourcen des Systems zu adressieren. Dies ist insbesondere für die Schnittstelle der dpa interessant, da diese eine native Unterstützung zur Speicherung in einen S3 Bucket ermöglicht. 
+
+Als Datenbanksystem eignet sich die Technologie MongoDB, welche das Speichern von Dokumentenkorpora ermöglicht, bevor diese strukturiert wurden. Dadurch können Rohdaten temporär vorgehalten werden, um die Verarbeitung der Rohdaten als Stapelverarbeitung anstelle einer Echtzeitverarbeitung zu gestalten. Dadurch kann die Datensammlungsumgebung die Aufwände effizient verteilen. 
+Zudem reduziert das die Komplexität von Fehlerbehebung, da der Datenfluss nicht unmittelbar unterbrochen wird.
+
+Der zu entwickelnde Prototyp muss entsprechend das Abfragen der Schnittstellen vornehmen und das Ablegen in eine Datenbank abbilden. 
+Der Prototyp speichert die Resultate, der verschiedenen Datenquellen, in einen zentralen Speicher beispielsweise im Dateisystem des Entwicklungsrechner. 
+Bei der angestrebten Weiterentwicklung auf die Microservice Architektur würde eine Datenbank je Microservice implementiert werden. Dadurch wird das Konzept der losen Kopplung zwischen den Services bewahrt auf Kosten der Komplexität, sowie den Betriebskosten. Dies würde die Funktionen eines Data Lakes abbilden, dabei jedoch selektiv skalierbar sein. \footcite[Vgl.][]{Iatropoulou.BigDataServices.2021}{}{}
+
+Die Architektur gliedert sich in verschiedenen Schichten (engl. Layered Architecture) um eine entsprechende Struktur zu etablieren und den Fokus auf die lose Kopplung zu forcieren. Das klare Abgrenzen in die verschiedenen Schichten erlaubt zudem die Abstraktion der Komplexität, welche durch die gewählte Architektur entsprechend amplifiziert ist. Zudem wirkt sich diese Strukturierung förderlich auf die Wiederverwendbarkeit sowie die Performance des Systems aus.\footcite[Vgl.][]{Wang.LayeredMicroservices.2018}{}{}
+
+Die, zur Abfrage der Nachrichtenseiten konzipierten, Microservices inklusive deren Datenbanken bilden die \textit{Storage Layer.} Die Nachrichtenseiten gliedern sich in der abstrakten Schicht External Sources.
+
+Die Kommunikation der Microservice untereinander wird durch einen zentralen Dienst (engl. Event Streaming Plattform) gesteuert, welcher Ereignisse (engl. Events) durch die Microservices enthält und bereitstellt. Auf diese können andere Microservices reagieren und definierte Verarbeitungen durchführen. Beispielsweise kann ein Microservice aus dem \textit{Storage Layer} ein Ereigniss an den Event Broker senden, sobald ein neuer Artikel bezogen wurde. Dies stärkt die Entkopplung, sowie die Erweiterbarkeit, als auch die Skalierbarkeit der finalen Architektur auf Kosten der Komplexität des Systems.
+Mögliche Technologie zur Realisierung der Event Streaming Plattform wäre Kafka der Firma Apache.\footcite[Vgl.][]{Kul.PublishSubscribeMicroservices.2021}{}{}
+
+Im nächsten Schritt müssen die Daten für die Analyse prozessiert werden. Dazu wird ein weiterer Microservice implementiert, welcher zudem einem entsprechendem Datenspeicher zugeordnet ist, beispielsweise einem Serverless Data Warehouse oder einem Cloud Storage. 
+Dieser Service greift auf die Daten der Services der \textit{Storage Layer} zu und prozessiert diese gemäß den Anforderungen der nach-gelagerten Analyseschritte. 
+Die Microservices konsumieren die Events aus der Event Streaming Plattform und starten daraufhin ihre Prozessierung.
+
+Durch diese Form der Gestaltung ist es möglich, mehrere verschiedene Prozessierungen für verschiedene Analysen bereitzustellen, durch das Implementieren weiterer Microservices. Zudem entsteht durch die Kapselung der Prozessierung eine Virtualisierung der vorgehaltenen Daten, welche den Zugriff auf die Daten, durch Konsumenten, verbessert. Diese Komponenten gliedern sich in dem \textit{Processing Layer}.
+
+Im letzten Prozess-schritt werden die prozessierten Daten abgefragt und durch entsprechende Analysen verwendet. Dies wird durch entsprechende Analytics Microservices abgebildet, welche sich je nach gewünschter Struktur der Analyse, aufbauen lassen. Diese Services konsumieren die Events der \textit{Processing Layer} und starten daraufhin ihre Verarbeitung. Durch den modularen Aufbau der Architektur, sowie dem vorhalten der Dokumenten- und Datenkorpora ist es möglich, dies Analyse last-gerecht nach dem Prinzip der Stapelverarbeitung durchzuführen.
+Zudem können, je nach Analyse, utnerschiedliche Technologien in die Architektur integriert werden.
+Sollte ein Anwendungsfall (engl. Use Case) eine Analyse mit Echtzeitverarbeitung benötigen, kann die gegebene Architektur dies ebenfalls abbilden.\footcite[Vgl.][]{Hsu.MicroserviceAnalyticsPlattform.2018}{}{}
+
+Die geplanten Komponenten lassen sich in folgender Systemlandschaft abbilden.
+
