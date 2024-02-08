@@ -3,6 +3,7 @@
 TBD
 
 \subsection{Identifizierung diverser Datenströme zur Integration in einem einheitlichen Datenkorpus}
+\subsubsection{Anbindung Tagesschau}
 Die erste Datenquelle für die Datensammlungsumgebung ist die Anwendungsschnittstelle der Tagesschau. Diese ist eine Nachrichtensendung der Arbeitsgemeinschaft der öffentlich-rechtlichen Rundfunkanstalten der Bundesrepublik Deutschland (ARD) . Über diese Schnittstelle ist es möglich, Beiträge der Website www.tagesschau.de im JavaScript Object Notation (JSON) Format abzufragen. 
 Die Schnittstelle ist mit einer OpenAPI Specification dokumentiert, über welche alle Informationen bezogen werden können. Der Zugriff auf diese Schnittstelle ist auf 60 Aufrufe pro Stunde limitiert. Darüber hinaus ist lediglich die nicht-kommerzielle Nutzung gestattet. Zudem dürfen gesammelte Inhalte, mit Ausnahme der unter der Creative Common (CC) Lizenz stehenden Inhalte, nicht weiter veröffentlicht werden. \footcite [Vgl.][]{Fischer.2024}
 
@@ -18,7 +19,7 @@ Jeder Endpunkt ist gemäß dem Paradigma Representational State Transfer (REST) 
 
 Für die erste Umsetzung der Datensammlungsumgebung ist es ausreichend, den News Endpunkt zu konsumieren. Dieser gibt eine Liste von News Objekten zurück, wie im \ref{Anhang} beschrieben. Diese enthält folgende Informationen:
 
-\begin{table}[bp!]   
+\begin{table}[H]   
     \centering
     \caption{Attribute Tageschau API Response}
     \label{tab:Attribute Tageschau API Response}
@@ -49,7 +50,7 @@ Für die erste Umsetzung der Datensammlungsumgebung ist es ausreichend, den News
 \newpage
 Die Informationen im Tracking Attribut werden für das Erfassen und Analysieren des Nutzerverhaltens verwendet und können entsprechend für eine Analyse sinnvoll sein. 
 
-\begin{table}
+\begin{table}[H]
 \centering
 \caption{Tracking-Objekte in der Tagesschau API}
 \label{tab:Tracking Tageschau API}
@@ -74,7 +75,7 @@ Die Antwort für den Artikel erfolgt als JSON Objekt. Dieses enthält ebenfalls 
 Der Inhalt ist in verschiedene Segmente aufgeteilt und entsprechend in der JSON-Antwort abgebildet. Der Inhalt eines Segments wird im \textit{value} Attribut gehalten, im \textit{type} Attribut wird bestimmt, um was es sich handelt (text, headline, box etc.).
 
 Die Antwort für die Kommentarsektion erfolgt als HTML Seite. 
-\begin{figure}
+\begin{figure}[H]
     \centering
     \includegraphics[width=1\linewidth]{abbildungen/Screenshot Comment Tagesschau.PNG}
     \caption{Tagesschau Kommentarsektion} 
@@ -96,27 +97,16 @@ Die Kommentare werden in Seiten strukturiert und entsprechend nur teilweise zur�
 
 \newpage
 
-\begin{figure}
+\begin{figure}[H]
     \centering
     \includegraphics[width=1\linewidth]{abbildungen/Request Sequence.drawio.png}
     \caption{Abfragesequenz Datensammlung}
     \label{fig:Abfragesequenz Datensammlung}
 \end{figure}
 Der Ablauf der Datensammlung muss zwangsläufig mit dem initialen Abfragen der Tagesschau API starten, wie in der OpenAPI Spezifikation beschrieben. Dabei kann sowohl die Region wie auch das Ressort der gewünschten Artikel angegeben werden, um initial zu filtern. Anschließend können die Abfragen für den Artikelinhalt, sowie den Kommentaren stattfinden (siehe Abbildung \ref{fig:Abfragesequenz Datensammlung}). 
-Um die Limitierung der Schnittstelle nicht zu überschreiten ist es notwendig, die zu machenden Aufrufe bestimmen zu können. Die Anzahl der benötigten Aufrufe lässt sich, auf Basis der geplanten Kommunikationsstruktur mit folgender Formel ausdrücken:
-
-\(TotalRequests=1+(AmountArticles×2)\)
-
-Dabei ist es möglich, die Abfragen sowohl synchron, wie auch asynchron auszuführen, um die Prozessdauer als Konsument zu reduzieren.
 
 \newpage
-\begin{figure}
-    \centering
-    \includegraphics[width=1\linewidth]{abbildungen/dpa doc structure.png}
-    \caption{Format dpa Schnittstelle}
-    \label{fig:Format dpa Schnittstelle}
-    Quelle: \fullcite{DpaApiDocumentation.APIs.2024}
-\end{figure}
+\subsubsection{Anbindung Deutsche Presse Agentur}
 Als zweite Datenquelle wird die Deutsche Presse Agentur (dpa) angebunden. 
 Diese ist die größte Nachrichtenagentur Deutschlands und möchte Inhalte möglichst neutral und unparteiisch bereitstellen.\footcite[Vgl.][]{Dpa.about.2024}
 
@@ -137,8 +127,16 @@ Zu den verschiedenen Schnittstellen gibt es, bereitgestellt durch die dpa selbst
 
 Jede Antwort der verschiedenen Schnittstellen gliedert sich grundsätzlich in einem Container Element, welches Topicles genannt wird. Dieses organisiert die verschiedenen Nachrichteninhalte der jeweiligen Gruppen der dpa. Dadurch ergibt sich der Vorteil, verschiedene Medien wie z.B. Texte, Bilder, oder Videos in einer einheitlichen Struktur abzubilden. Zudem ist das Format darauf optimiert, maschinell verarbeitet zu werden.\footcite[Vgl.][]{DpaApiDocumentation.Format.2024}
 
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\linewidth]{abbildungen/dpa doc structure.png}
+    \caption{Format dpa Schnittstelle}
+    \label{fig:Format dpa Schnittstelle}
+    Quelle: \fullcite{DpaApiDocumentation.APIs.2024}
+\end{figure}
+
 Die Metadaten eines Topicles setzen sich aus folgenden Attributen zusammen:
-\begin{table}
+\begin{table}[H]
     \centering
     \caption{Essentielle Metadaten im Topicles}
     \label{tab:Essentielle Metadaten im Topicles}
@@ -164,7 +162,7 @@ Die Metadaten eines Topicles setzen sich aus folgenden Attributen zusammen:
 Darüber hinaus weisen die individuellen Datentypen unterschiedliche Attribute auf. Für die erste Iteration der Datensammlungsumgebung sind zunächst die Nachrichtentexte von Relevanz. 
 Die Nachrichtentexte der Topicles weisen folgende spezielle Attribute auf:
 
-\begin{table}
+\begin{table}[H]
     \centering 
     \caption{Nachrichtentext im Topicles}
     \label{tab:Nachrichtentext im Topicles}
@@ -191,9 +189,9 @@ Die Nachrichtentexte der Topicles weisen folgende spezielle Attribute auf:
 \end{table}
 
 \newpage
-\subsection{Bildung eines Datenkorpus für eine Sentiment Analyse}
+\subsection{Bildung eines Datenkorpus zur Generalisierung der Nachrichtentexte}
 Die Struktur des, zur Analyse benötigten, Datenkorpus bildet sich aus den Schlüsselelementen der beiden Dokumentenkorpora. Dabei sind Attribute relevant, welche in der Schnittmenge der beiden Strukturen liegen, sind jedoch nicht darauf beschränkt. 
-\begin{table}
+\begin{table}[H]
     \centering
 \caption{Struktur Datenkorpus für Nachrichtenartikel}
 \label{tab:Datenkorpus}
@@ -222,7 +220,10 @@ Dadurch wird die Erweiterbarkeit weiter verbessert.
 \newpage
 \subsection{Architektur und Design der Datensammlungsumgebung}
 Zur Erarbeitung der Architektur ist es notwendig, die gegeben Rahmenbedingungen (engl. constraints) zu definieren und daraus nicht- funktionale Anforderungen zu definieren. Daraus ist herauszustellen, welche Qualitätsmerkmale das System verfolgt. 
+Nachdem die Randbedienungen definiert wurden, kann eine Systemarchitektur konzeptioniert werden, welche diese Eigenschaften aufweist. 
+Zuletzt wird von der Systemarchitektur abgeleitet, welche Aspekte in einem Prototypen umgesetzt werden sollen, um die Systemarchitektur auf ihre Machbarkeit hin zu validieren.
 
+\subsubsection{Definition von Randbedinungen}
 Als  Randbedingungen für die Datensammlungsumgebungen gelten alle Einschränkungen der genutzten Schnittstellen. Diese weisen unterschiedliche Nutzungsbedienungen auf, welche in der Architektur berücksichtigt und eingehalten werden müssen. Darüber hinaus ist zu beachten, wie die Daten vorgehalten werden um ebenfalls , im Bezug auf Privatsphäre, konform zu arbeiten. 
 
 Das detaillierte Dokumentieren der Architektur verbessert die Transparenz über den Datenbezug, sowie der Datenverarbeitung. Dieser Aspekt ist essentiell wichtig, um den Anspruch der Nachvollziehbarkeit gerecht zu werden, da sich daraus auch ggf. vorliegende Limitierungen in der Erhebung bzw. Analyse nachvollziehen lassen.\footcite[Vgl.][]{Sayogo.Challenges.2015}{}{}
@@ -238,7 +239,7 @@ Für die erste Iteration der Anwendung ist die Wartbarkeit, sowie die Benutzerfr
 
 [Inhalt zur angestrebten Analyse]
 
-\textbf{Komponenten der Systemarchitektur}
+\subsubsection{Konzeption der Systemarchitektur}
 Der erster Prozess-schritt der Datensammlungsumgebung ist das Abfragen der verschiedenen Nachrichten-Quellen. Die Komponente muss dazu in der Lage sein, entsprechende HTTP Aufrufe an die die Schnittstellen der Nachrichtenquellen zu richten. Dabei ist die Restriktion der Aufrufe bei der Tagesschau zu beachten. Im Bereich von öffentlichen Schnittstellen sei es nach Fresno-Aranda zu erwarten, dass diese Einschränkung bei weiteren Schnittstellen ebenfalls auftreten werden.\footcite[Vgl.][]{Fresno-Aranda.Automated.2022}{}{}
 
 Diese Aufgabe wird durch einen  bzw. mehrere  Microservices erfüllt, welche es ermöglichen, die jeweilgen Schnittstellen abzufragen.  So kann, je nach Bedarf, die Logik zur Abfrage der Nachrichtenartikel auf die Services aufgeteilt werden, sodass je angebundener Quelle ein Microservice das Abfragen sowie das temporäre Speichern der Dokumentenkorpora vornehmen kann. 
@@ -250,8 +251,6 @@ Zudem sind Diese getrennt skalierbar, um kosteneffizent die unterschiedlichen Be
 Als Datenbanksystem eignet sich die Technologie MongoDB, welche das Speichern von Dokumentenkorpora ermöglicht, bevor diese strukturiert wurden. Dadurch können Rohdaten temporär vorgehalten werden, um die Verarbeitung der Rohdaten als Stapelverarbeitung anstelle einer Echtzeitverarbeitung zu gestalten. Dadurch kann die Datensammlungsumgebung die Aufwände effizient verteilen. 
 Zudem reduziert das die Komplexität von Fehlerbehebung, da der Datenfluss nicht unmittelbar unterbrochen wird.
 
-Der zu entwickelnde Prototyp muss entsprechend das Abfragen der Schnittstellen vornehmen und das Ablegen in eine Datenbank abbilden. 
-Der Prototyp speichert die Resultate, der verschiedenen Datenquellen, in einen zentralen Speicher beispielsweise im Dateisystem des Entwicklungsrechner. 
 Bei der angestrebten Weiterentwicklung auf die Microservice Architektur würde eine Datenbank je Microservice implementiert werden. Dadurch wird das Konzept der losen Kopplung zwischen den Services bewahrt auf Kosten der Komplexität, sowie den Betriebskosten. Dies würde die Funktionen eines Data Lakes abbilden, dabei jedoch selektiv skalierbar sein. \footcite[Vgl.][]{Iatropoulou.BigDataServices.2021}{}{}
 
 Die Architektur gliedert sich in verschiedenen Schichten (engl. Layered Architecture) um eine entsprechende Struktur zu etablieren und den Fokus auf die lose Kopplung zu forcieren. Das klare Abgrenzen in die verschiedenen Schichten erlaubt zudem die Abstraktion der Komplexität, welche durch die gewählte Architektur entsprechend amplifiziert ist. Zudem wirkt sich diese Strukturierung förderlich auf die Wiederverwendbarkeit sowie die Performance des Systems aus.\footcite[Vgl.][]{Wang.LayeredMicroservices.2018}{}{}
@@ -273,21 +272,39 @@ Sollte ein Anwendungsfall (engl. Use Case) eine Analyse mit Echtzeitverarbeitung
 
 Die geplanten Komponenten lassen sich in folgender Systemlandschaft abbilden.
 
-\begin{figure}
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.5\linewidth]{abbildungen/System Architektur.drawio.png}
     \caption{System Architektur Modell}
     \label{fig:system-architecture}
 \end{figure}
 \newpage
+\subsubsection{Konzeption des Prototypen [Ins Ergebnis Kapitel?]}
 Um die technische Machbarkeit der geplanten Architektur, zu evaluieren, werden die Kernfunktionalitäten der Architektur abgebildet. Diese beinhalten das Abfragen der Nachrichtenseiten, das prozessieren dieser Daten als Vorbereitung auf die Analyse, sowie die Analyse selbst. 
+
 Als technische Basis eignet sich eine Implementierung als Jupiter Notebook, da sich auf dieser Basis diese Funktionen ohne große Komplexität abbilden lassen. 
-Die Stapelverarbeitung wird dabei als Batch Job lokal programmiert, um die Limitierung der Tagesschau einzuhalten. Zudem kann die Analyse ebenfalls im Notebook abgebildet werden. 
+Zudem kann die Analyse ebenfalls im Notebook abgebildet werden.
 Die daraus generierten Erfahrungen können bei der Implementierung der Systemarchitektur dann berücksichtigt werden, bevor getroffene Entscheidungen endgültig werden.
 
-\begin{figure}
+Um die modulare Struktur der geplanten Systemarchitektur abzubilden, werden die verschiedenen Prozesschritte ebenfalls getrennt voneinander abgebildet. Dabei speichert jedes Modul als eigenes Jupiter Notebook implementert. Diese legen nach vollendeter Prozessierung ihre Ergebnisse als Datei ab, beispielsweise im JSON Format. 
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.5\linewidth]{abbildungen/Prototyp Architecture.drawio.png}
     \caption{Prototyp Software Architektur}
     \label{fig:prototyp-architecture}
 \end{figure}
+Im Schritt der \textit{Data Collection} werden die analysierten Endpunkte der jeweiligen Plattformen sequenziell abgerufen. Dabei wird ein vollständiger Bezug der verfügbaren Daten vorgenommen. 
+
+Um die Limitierung der Tagesschau Schnittstelle nicht zu überschreiten ist es notwendig, die zu machenden Aufrufe bestimmen zu können. Die Anzahl der benötigten Aufrufe lässt sich, auf Basis der geplanten Kommunikationsstruktur (Siehe Abbildung \ref{fig:Abfragesequenz Datensammlung}), mit folgender Formel ausdrücken:
+
+\(TotalRequests=1 + (AmountArticles × 2)\)
+
+Die Abfragen werden synchron durchgeführt, um die Komplexität des Prototypen gering zu halten. Bei der Abfrage der Kommentare wird das Paging ebenfalls nicht betrachtet sondern lediglich die jeweils erste Seite der Kommentare bezogen. 
+Für die Evaluierung werden zum Test des parametrisierten Aufrufs der Schnittstelle alle 16 möglichen Regionen aufgerufen. Die Angabe des Ressorts wird mit dem festen Wert \textit{inland} konfiguriert.
+
+Auf Basis dieser Konfiguration würde eine Anzahl von 16 Basisabfragen ausgeführt werden, welche, abhängig von der Anzahl an verfügbaren Artikeln und dem Vorhandensein von Kommentaren, entsprechende Folgeabfragen bewirken würden. Dadurch würde die Limitierung der Schnittstelle überschritten werden, was für die Validierung notwendig ist. 
+
+Um dies zu berücksichtigen, werden zunächst die 16 Basisabfragen ausgeführt. In den jeweiligen Antworten kann die Anzahl der verfügbaren Artikel bestimmt werden, auf Basis der bestimmten Formel. Anschließend werden die zu tätigen Abfragen in Stapel aufgeteilt, sodass die Summer dieser das Limit nicht überschreitet. Diese werden dann in eine geplante Ausführungskette abgelegt und mit einer Verzögerung von einer Stunde ausgeführt. Dabei speichert jede Stapelverarbeitung ihr erstelltes Ergebnis als Datei ab. 
+Sobald alle Stapel abgearbeitet wurden, wird das nächste Jupiter Notebook aufgerufen.
+
+Im \textit{Data Cleansing} Modul [Hier mit den Modulen weiter machen]
