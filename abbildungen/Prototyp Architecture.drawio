@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T21:03:01.044Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="WFNMaxJQTMG0CZFTBNqq" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T21:04:42.935Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="tAKsNr68ZLVJmudTtaqh" version="23.1.2" type="github">
   <diagram name="Seite-1" id="6xaDlkBND-Z9a0DsL5Lj">
     <mxGraphModel dx="830" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KtGIijuRkzR_cSvOx2hp-1" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;Jupiter Notebook&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#00998A;strokeColor=#6c8ebf;verticalAlign=top;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="170" y="203" width="260" height="367" as="geometry" />
+        <mxCell id="KtGIijuRkzR_cSvOx2hp-1" value="&lt;p style=&quot;line-height: 110%;&quot;&gt;Jupiter Notebook&lt;/p&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#00998A;strokeColor=#FFFFFF;verticalAlign=top;fontStyle=1;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="170" y="203" width="260" height="380" as="geometry" />
         </mxCell>
         <mxCell id="KtGIijuRkzR_cSvOx2hp-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.012;entryY=0.135;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;endArrow=block;endFill=1;startArrow=block;startFill=1;" edge="1" parent="1" source="KtGIijuRkzR_cSvOx2hp-2" target="KtGIijuRkzR_cSvOx2hp-5">
           <mxGeometry relative="1" as="geometry" />
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="KtGIijuRkzR_cSvOx2hp-11" value="Visualization" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.nsx_dashboard;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="325" y="488" width="50" height="46.5" as="geometry" />
+        </mxCell>
+        <mxCell id="KtGIijuRkzR_cSvOx2hp-13" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
